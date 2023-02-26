@@ -6,53 +6,53 @@ This proxy list is collected from the list of proxies available on the Internet.
 
 ## List of proxies:
 
-`tg://proxy?server=45.136.198.63&port=443&secret=eec70a1a2a9fdf740695a85a105943f7707777772e7661727a657368332e636f6d`
+`tg://proxy?server=www.ton--vvs.homes&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=www.digitalesh000n.quest&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=5.78.44.136&port=443&secret=ee00000000000000000000000000000000626f7461647331352e636f2e756b`
 
-`tg://proxy?server=www.d00lk.quest&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=169.150.242.19&port=443&secret=ee32b920dffb51643028e2f6b878d4eac176616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=mci.full.deoraa.goal-golden.cfd&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020`
+`tg://proxy?server=pwtzj.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=rightel.ir-irancell.ir-mci.ir.for-liberty.boats&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
+`tg://proxy?server=xn--4gq4vwjt35dvwe2q2a.beauty&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=178.128.248.24&port=443&secret=eea3ca965c683e1db2d880782a2698cf3e6b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=gofte-bodam-cho-biaei.che-begoiam-ke-gham-az-del-beravad-chon-to-biaei.online&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=babakhafan.salamjafar.co.uk&port=443&secret=ee0000000000000000000000000000000075706c6f6164626f792e636f6d`
+`tg://proxy?server=mci.full.love-078.goal-golden.cfd&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020`
 
-`tg://proxy?server=iro.free-host________lolo283739w83725_________irankala.com.gandhi-india.online&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=www.ti-pr0xy.quest&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=64.225.100.124&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d`
+`tg://proxy?server=mail.irnic-ir.cfd&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
 
-`tg://proxy?server=gar-feragh-bande.az-bandegist-gar-to-ba-bad-bad-koni-pas-fargh-chist.store&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=gkron.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b64726f70626f782e636f6d`
 
-`tg://proxy?server=www.fiirewall.quest&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_i.mashrajab.gives&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=irancell.mcii.rightteil.goal-golden.cfd&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020`
+`tg://proxy?server=iran.tls_fake.varzesh3.motorcycles&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=free-host________________lol-------------------o2.gandhi-india.online&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=www.godaddyy.xyz&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=5.78.43.191&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=134.209.224.20&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=free------------------------lol-------------------is.b------------------ft.ns1.1-0-1-0.gq_ns2.1-0-1-0.gq.gandhi-india.yachts&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=mci.full.ubuntu20.goal-golden.cfd&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020`
 
-`tg://proxy?server=212.33.206.202&port=443&secret=ee8de6c02ef60ec2d6a9426873cdc14f6f73332e616d617a6f6e6177732e636f6d`
+`tg://proxy?server=qbeliiii.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b64726f70626f782e636f6d`
 
-`tg://proxy?server=45.136.198.80&port=443&secret=eed497750980f46b7781309d046ed5d5cf73332e616d617a6f6e6177732e636f6d`
+`tg://proxy?server=ops-this-is.1-67-balance.cfd&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
 
-`tg://proxy?server=fwtzj.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=68.183.209.52&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=179.43.176.221&port=443&secret=ee26d20e35be29ccb72438934c7843d97e7777772e7661727a657368332e636f6d`
+`tg://proxy?server=ckron.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b64726f70626f782e636f6d`
 
-`tg://proxy?server=www.sharif.edu1.com.irocoin.website&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=103.105.48.211&port=443&secret=ee974e625d0267b7407818c544f1941ec26175746f646973636f7665722e64756f6c696e676f2e636f6d`
 
-`tg://proxy?server=tirotofanga-ragbare-feshanga.1-1400.gq.xn--910br1bqel2q98ctrowwlqib.art&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=www.iut.ac.com.ir.irocoin.website&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=okopl.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=193.38.55.115&port=443&secret=ee22ebe47f2fc015484b783657b82ddb6962326e2e6972`
 
-`tg://proxy?server=www.l0k-img.homes&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
+`tg://proxy?server=obeliiii.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b64726f70626f782e636f6d`
 
-`tg://proxy?server=tv5.ir.1400.melbourne&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=188.166.171.126&port=8080&secret=ee06a09244ba694dbc25a6e725f53600a86b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=mci.full.rrio.ko-nic.industries&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
+`tg://proxy?server=zarinpal-pay-com.irocoin.website&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
