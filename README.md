@@ -6,53 +6,53 @@ This proxy list is collected from the list of proxies available on the Internet.
 
 ## List of proxies:
 
-`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_y.n_t.cl_h.this.www.microsoft.com.t_is_o.pc_like.localhost.www.bing.com.w_e.cyou.com.now_sudo.rm_rf.ddns.net.w_e.a_t_t.eve.i_m.the_internet.asanpardakht_ir.im-tired-of-this-shit.autos&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=free------------------lol---------is---b----1-0-1-0.bandit.casa.brotherhood-shape-memory-effect.store&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
 
-`tg://proxy?server=209.127.228.150&port=443&secret=ee32b920dffb51643028e2f6b878d4eac176616e2e6e616a76612e636f6d`
+`tg://proxy?server=soft98.ir.kermanshah.ir.divar.ir.meli.ir.petro.ir.lez.pasta.gay.qeshmir.mbal.xn-----xsdue2bfj3pdll24oha.world&port=443&secret=ee0000000000000000000000000000000064726f70626f782e636f6d`
 
-`tg://proxy?server=92.63.169.18&port=11111&secret=eed0d6e111bada5511fcce9584deadbeef73332e616d617a6f6e6177732e636f6d`
+`tg://proxy?server=xn----c12sdawa6bara5vinb9ak5a0ob311xkab4jot.1400.sydney&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=1-2_3.4-5_6.7-8_9.10-0.1.1.1.1.cloudflare.gandhi-india.yachts&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=128.199.53.98&port=443&secret=ee69411c0547a428682255e0024d714a1b79616e6465782e636f6d`
 
-`tg://proxy?server=mci.full.nat.goal-golden.cfd&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020`
+`tg://proxy?server=rwdc.ir.drroshanimplant.com.copydvd.ir.fanavadc.com.abginefilm.ir.hamyartruck.ir.ava-sigas.com.dedna.ir.post-alirezaix.ir.4-so.ir.metisclinic.ir.raisin377.com.atresabz.one.tiget.ir.all-anti-are-bega-and-you-come-to-changer-lol.cyou.gandhi-india.yachts&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=5.28.193.19&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d`
+`tg://proxy?server=rwdc.ir.drroshanimplant.com.copydvd.ir.fanavadc.com.abginefilm.ir.hamyartruck.ir.ava-sigas.com.windowtranslation.com.dedna.ir.post-alirezaix.ir.4-so.ir.metisclinic.ir.raisin377.com.atresabz.one.tiget.ir.all-anti-are-bega-and-you-come-to-changer-lol.cyou&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972`
 
-`tg://proxy?server=drdibi.ir.beheshty.com.yakpaper.com.vilatab.com.drdibi.ir.kamalmalekei.ir.pourshoja.com.bonchaagh.com.tmbs.ir.iran-commax.com.yasna-law.com.parsianlotus.org.shopnoor.ir.espadparvazaria.com.farhadrahimy.ir.azdaroon.com.heroaluminium.ir.times-strait.co.in&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972`
+`tg://proxy?server=37.252.7.73&port=443&secret=eea5d056608cb132002880fbf3cdd6fbd47777772e766972676f6f6c2e696f`
 
-`tg://proxy?server=195.74.93.37&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=wthbk.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=eto0r.co.uk&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=messi10-ronaldo7.beauty-of-god.haza-men-fazle-rabbi.click&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
 
-`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_i.give-me.gives&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=139.162.243.81&port=443&secret=ee32b920dffb51643028e2f6b878d4eac176616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=ekron.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b64726f70626f782e636f6d`
+`tg://proxy?server=here.esfand.itemdb.com&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=37.1.197.64&port=443&secret=ee1c9aa63391cc795a7eda37b928bb6ef07777772e646967696b616c612e636f6d`
+`tg://proxy?server=159.65.30.199&port=443&secret=eea3ca965c683e1db2d880782a2698cf3e6b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=t-ir.andromeda.wiki&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
+`tg://proxy?server=5.78.77.203&port=443&secret=ee00000000000000000000000000000000626f7461647331352e636f2e756b`
 
-`tg://proxy?server=1.1.1.1_1111.gandhi-india.yachts&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=dbvvv.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b64726f70626f782e636f6d`
 
-`tg://proxy?server=139.162.192.33&port=443&secret=ee0eca907f465014db24412983c54880be79616e6465782e636f6d`
+`tg://proxy?server=ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972`
 
-`tg://proxy?server=okopl.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=www_____________________________________________________www.gandhi-india.yachts&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=f-1_0-f.gandhi-india.yachts&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=ping-tls.gandhi-india.click&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=46.229.243.36&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d`
+`tg://proxy?server=5.78.45.255&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=cloudfare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_woth_me.cyou.com.now_sudo.rm_rf.dds.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specal_hsnp.mrpokosfkii.foundation&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=co.uk-co.uk--co.uk---co.uk----co.uk-----co.uk------co.uk-------co.xn--910br1bqel2q98ctrowwlqib.art&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=sep.shaparak.ir.im-tired-of-this-shit.motorcycles&port=444&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=iribnews.ir.1400.melbourne&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=64.226.66.39&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d`
+`tg://proxy?server=5.28.193.41&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d`
 
-`tg://proxy?server=5.28.193.27&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d`
+`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.io.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.irancell-ir-irancell-ir-irancell-ir-irancell-ir.sbs&port=443&secret=ee32b920dffb51643028e2f6b878d4eac164726f70626f782e636f6d`
 
-`tg://proxy?server=194.4.51.107&port=443&secret=ee9ff0ccdfdcd024c2940b9cb71caa07cd756e6974792e696d616765732e6170706c652e636f6d`
+`tg://proxy?server=www.izzotop.lol&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=ctbb.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=wred.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=134.122.65.92&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d`
+`tg://proxy?server=5.28.193.44&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d`
 
