@@ -6,53 +6,53 @@ This proxy list is collected from the list of proxies available on the Internet.
 
 ## List of proxies:
 
-`tg://proxy?server=t-r-g.dynu.com&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=freedom.persian-irani.boats&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020`
 
-`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.members_login.irnic.cfd&port=444&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=ored.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=www.activ---ati0n.quest&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.the_internet.special_i.the-hou.gives&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=cloudfare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_woth_me.cyou.com.now_sudo.rm_rf.dds.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specal_hsnp.mrpokosfkii.foundation&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=45.77.201.71&port=443&secret=eec733b6bc85c863d338bfabc902736d537777772e636c6f7564666c6172652e636f6d`
 
-`tg://proxy?server=freedom.www.iran.com.irancell.courses&port=443&secret=ee32b920dffb51643028e2f6b878d4eac175706c6f6164626f792e636f6d`
+`tg://proxy?server=bxvzvanw.dynu.com&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=37.1.199.36&port=443&secret=ee63ae20bb6828c4a6b1ff40b0d2fc64e77777772e646967696b616c612e636f6d`
+`tg://proxy?server=www.tciservices.boats&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
 
-`tg://proxy?server=139.64.164.113&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=www.aaaaaaaaaaaaa.lol&port=443&secret=ee0000000000000000000000000000000064726f70626f782e636f6d`
 
-`tg://proxy?server=dbvvv.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b64726f70626f782e636f6d`
+`tg://proxy?server=5.28.193.32&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d`
 
-`tg://proxy?server=37.252.7.31&port=443&secret=eeb4c6eb974aa37532f6f55e588318d7e37777772e766972676f6f6c2e696f`
+`tg://proxy?server=rred.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=mci.full.loveww2.goal-golden.cfd&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020`
+`tg://proxy?server=digala.com.nokia.com.co.uk.do_yo.want_to.clash_wih.this.www.mirosoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.dds.net.we_are_here.again_to_fight.ith_everyone.i_am.the_internet.special_way.this-is-me-finally.makeup&port=443&secret=ee00000000000000000000000000000000636f696e74656c6567726170682e636f6d`
 
-`tg://proxy?server=18.190.13.122&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
+`tg://proxy?server=5.28.193.25&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d`
 
-`tg://proxy?server=r0ute.dynu.com&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.local_lan.irnic.cfd&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=65.21.58.23&port=4443&secret=eef48f621b110f302e468756840c29f91673332e616d617a6f6e6177732e636f6d`
+`tg://proxy?server=46.101.233.119&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=qqhb.dynu.com&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=rabert.monchanin.www.asiatech.website&port=443&secret=ee32b920dffb51643028e2f6b878d4eac175706c6f6164626f792e636f6d`
 
-`tg://proxy?server=www.cyoum.quest&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=last-king.ddns.net&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
 
-`tg://proxy?server=45.64.22.22&port=443&secret=eea324045fdfe624df202eb359a3f9e2dc6b722e6d796b657976616e732e736369656e6365`
+`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.pla_like.localhost.www.bing.com.count_with_me.cyou.com.sudo.rm_rf.ds.net.are_here.again_fight.everyne.thrnet.special_i.the-hou.gives&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=all.web.rubika.ir.eset.website&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=5.61.36.118&port=443&secret=eecaf189a5e59a7562cce95baab35a5db17777772e746f726f622e636f6d`
 
-`tg://proxy?server=212.90.103.38&port=1705&secret=eedbaadb25ebbdd5c5f347ccb851a32aa17777772e636c6f7564666c6172652e636f6d`
+`tg://proxy?server=38.180.1.159&port=443&secret=ee0b2939811f925c55733e537edab613617777772e74676a752e6f7267`
 
-`tg://proxy?server=other.dynu.com&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=5.28.193.15&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d`
 
-`tg://proxy?server=ekron.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b64726f70626f782e636f6d`
+`tg://proxy?server=sred.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=20.205.112.116&port=8443&secret=ee0b77ab99a27cf057704403808955381f617a7572652e6d6963726f736f66742e636f6d`
+`tg://proxy?server=hbeliiii.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b64726f70626f782e636f6d`
 
-`tg://proxy?server=de-le.dynu.com&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=notb0t.dynu.com&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=104.217.251.137&port=444&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=mci.full.rria.ko-nic.industries&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d`
 
-`tg://proxy?server=178.62.217.102&port=443&secret=eea3ca965c683e1db2d880782a2698cf3e6b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=5.28.193.46&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d`
 
-`tg://proxy?server=hgoob.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b202020202020202020202020202020`
+`tg://proxy?server=5.28.193.13&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d`
 
