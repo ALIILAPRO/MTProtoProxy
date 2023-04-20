@@ -6,53 +6,53 @@ This proxy list is collected from the list of proxies available on the Internet.
 
 ## List of proxies:
 
-`tg://proxy?server=agahesh.ir.fh44-uast.ac.ir.behban.ir.bmskala.ir.zirbana.services.asadi.info.pamco.archi.doryab.dental.slanguage1.com.blueskarf.ir.lianashop.ir.lahijmarket.ir.livesupp.net.ramseyart.net.ilamiot.ir.maktab-dg.ir.aras-bazar.ir.giumall.com.ziraatbankasi.pics&port=443&secret=eeda411655b684fe87abf58ec2235e28166b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=ahttad.dynu.com&port=443&secret=ee0000000000000000000000000000000075706c6f6164626f792e636f6d`
 
-`tg://proxy?server=brfghjx.dynu.com&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f`
+`tg://proxy?server=37.1.208.54&port=443&secret=eea8d8a9bee21dfcbf5156b8759cb3d7fd7777772e746f726f622e636f6d`
 
-`tg://proxy?server=v59.from-wv.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=176.124.216.89&port=443&secret=ee1603010200010001fc030386e24c3add62616c61642e6972`
 
-`tg://proxy?server=tyqexc.dynu.com&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f`
+`tg://proxy?server=c12.from-wy.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=cloudflare.com.nokia.com.co.uk.this.www.microsoft.com.there_is_no.yq01i_like.localhost.www.bing.com.cyou.com.ddns.net.for_all.cityangles.yachts&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=5.28.193.48&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d`
 
-`tg://proxy?server=k240.from-wy.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.are_here.again_to_fight.everyne.th_internet.special_i.the-hou.gives&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=nxrtzi.dynu.com&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f`
+`tg://proxy?server=cloudflare.com.nokia.com.co.uk.this.www.microsoft.com.there_is_no.ptdyyytu1i_like.localhost.www.bing.com.cyou.com.ddns.net.for_all.neverlookback.boats&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=bermester-mokano.sofegramon.fendi-berox.monster&port=443&secret=ee32b920dffb51643028e2f6b878d4eac17777772e7370656564746573742e6e6574`
+`tg://proxy?server=tnniop.dynu.com&port=443&secret=ee0000000000000000000000000000000075706c6f6164626f792e636f6d`
 
-`tg://proxy?server=ndoghjkmb.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=jetaudio.com-winamp.com.ir-55-00.nokia.com.www.lamborghini.com.uploadboy.com-jet.ir_bom-0.8.0.8.com.ir_gq-yk.co.uk.yachts12-line.co.uk&port=443&secret=ee0000000000000000000000000000000075706c6f6164626f792e636f6d`
 
-`tg://proxy?server=xzchjok.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=tlliop.dynu.com&port=443&secret=ee0000000000000000000000000000000075706c6f6164626f792e636f6d`
 
-`tg://proxy?server=24.shaprak.ir.kzn55.xyz&port=443&secret=eea3ca965c683e1db2d880782a2698cf3e76616e2e6e616a76612e636f6d`
+`tg://proxy?server=simopl.dynu.com&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f`
 
-`tg://proxy?server=qatvhl.dynu.com&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f`
+`tg://proxy?server=purtnl.dynu.com&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f`
 
-`tg://proxy?server=cloudflare.com.nokia.com.co.uk.this.www.microsoft.com.thre_is_no.rber01c_like.localhost.www.bing.com.cyou.com.ddns.net.for_all.arvancloud.wiki&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=jzprinm.dynu.com&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f`
 
-`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_ar_here.again_to_fight.everyonfor.i_am.inthegar-denthe_internet.special_hsnp.inyeki.boats&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=dns.api-botads503.co.uk&port=443&secret=ee0000000000000000000030000000000000646e732e6170692d626f746164733530332e636f2e756b`
 
-`tg://proxy?server=triptis.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=dcnklpp.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=216.73.156.157&port=443&secret=ee000000000000000000000000000000007777772e7370656564746573742e6e6574`
+`tg://proxy?server=68.183.47.73&port=443&secret=ee129e8ef0e585c12660bf769c91a04bdf7777772e676f6f676c652e636f6d`
 
-`tg://proxy?server=tosinso.aprilpril.uk&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972`
+`tg://proxy?server=rcnklpp.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=ooooo.dynu.com&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=artzghop.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=46.101.47.68&port=443&secret=eee65487f40f2e858db3e69e14d3219228656e2e77696b6970656469612e6f7267`
+`tg://proxy?server=219.shaprak.ir.kzn55.xyz&port=443&secret=eea3ca965c683e1db2d880782a2698cf3e76616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=37.1.215.45&port=443&secret=eef8d4c2c76f7ed25943d820a0ac5bc5117777772e66696c696d6f2e636f6d`
+`tg://proxy?server=37.27.7.21&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20576616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=ccjkplmn.dynu.com&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f`
+`tg://proxy?server=26.shaprak.ir.kzn55.xyz&port=443&secret=eea3ca965c683e1db2d880782a2698cf3e76616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=portal.ey-ke-az-kocheye-mashogheye-ma-migozari.monster&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=37.27.1.66&port=443&secret=ee1000000100010000100000100000001076616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=146.190.93.80&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d`
+`tg://proxy?server=kwqecv.dynu.com&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f`
 
-`tg://proxy?server=8.shaprak.ir.kzn55.xyz&port=443&secret=eea3ca965c683e1db2d880782a2698cf3e76616e2e6e616a76612e636f6d`
+`tg://proxy?server=59.from-dc.com&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=5.61.33.37&port=443&secret=eecdfcd652c004b3e6e6557b2bdc4f1f9e7777772e676f6f676c652e636f6d`
+`tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.with.this.www.goglesof.com.baronia-intheparket.sbs&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
