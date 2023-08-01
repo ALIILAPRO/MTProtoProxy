@@ -6,53 +6,53 @@ This proxy list is collected from the list of proxies available on the Internet.
 
 ## List of proxies:
 
-`tg://proxy?server=www.ir.com.xyz.buzz.cam.net.co.dynu.cloud.pics.us.skin.buzz.hamrahaval.buzz&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
+`tg://proxy?server=alidark.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.handthere_is_no.place_like.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.globalgame.dark125.beauty&port=8080&secret=ee32b920dffb51643028e2f6b878d4eac16b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=111.180.205.220&port=21377&secret=ee4f7e4f140a0007c08884bb9488113436617a7572652e6d6963726f736f66742e636f6d`
+`tg://proxy?server=49.13.25.9&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20563646e2e79656b74616e65742e636f6d`
 
-`tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddnss.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsz---hsg.loveaitech.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
+`tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsb.prkbndomainss.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
 
-`tg://proxy?server=www.darkp0nihg.buzz&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
+`tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsz.bingo-o-0.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
 
-`tg://proxy?server=79.137.196.165&port=443&secret=eeb197a9bf56eb759e5ff5caf04f8e7ce17777772e636c6f7564666c6172652e636f6d`
+`tg://proxy?server=bill.reveal.thing.layer.winter.swing.lindoe-access.hair&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
-`tg://proxy?server=an6ma.uk&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
+`tg://proxy?server=www.ghjct4f.mymom.info&port=443&secret=ee00000000000000000000008500000000646c2e676f6f676c652e636f6d`
 
-`tg://proxy?server=173.82.219.206&port=443&secret=ee08c38bd522358e8863700e6105963e4b617a7572652e6d6963726f736f66742e636f6d`
+`tg://proxy?server=web.api-unicoion51.uk&port=443&secret=ee00000000000000000000000000000000666172616b61762e636f6d`
 
-`tg://proxy?server=mykxcqv.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=89.41.181.50&port=7980&secret=ee1603010200010001fc030386e24c3add62616c61642e6972`
 
-`tg://proxy?server=77.246.107.178&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000`
+`tg://proxy?server=cloudflare.com.nokia.com.ir.co.uk.com.do_yo.want_to.with.this.www.microsoft.co.uk.flying-moon.sbs&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsx.hiyop.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
+`tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsz.fanava.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
 
-`tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsn.i-lol.online&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
+`tg://proxy?server=n.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.co.uk-charchter-google-digiakala-g-messanger-meaaa.hotm-ail-mails.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f`
 
-`tg://proxy?server=ahc.ir.rangvare.com.tlss-co.net.shaylinsteam.ir.am-run.ir.etkfz.com.ke_tabforooshe.ir.heroaluminium.ir.bfn.ir.ara-investment.com.drhost.ir.waterfoundation.org.dogina.ir.labnoor.ir.acms_olver.ir.parsiansportclub.ir.peykmobile.com.apachimotors.motorcycles&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f`
+`tg://proxy?server=drdibi.ir.beheshty.com.yakpaper.com.vilatab.com.drdibi.ir.kamalmalekei.ir.pourshoja.com.bonchaagh.com.tmbs.ir.iran-commax.com.yasna-law.com.parsianlotus.org.shopnoor.ir.espadparvazaria.com.farhadrahimy.ir.azdaroon.com.heroaluminium.ir.times-strait.co.in&port=443&secret=eeda411655b684fe87abf58ec2235e28166b65746161626f6e6c696e652e636f6d`
 
-`tg://proxy?server=65.108.158.35&port=993&secret=ee4370f8df23f2bad337dfdd803bea9cf070727866692e7363726575676e6575676e2e6575`
+`tg://proxy?server=www.domain-list.sbs&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
 
-`tg://proxy?server=xlftlrd.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=mrsamimi.ir.falearn.com.tadbirsazan.com.labnoor.ir.kianbar.c_om.kiff.ir.puadhesive.org.ancc.ir.diakoit.ir.trueenergy.ir.prosel.ir.sayateja__rat.com.ghadirstonegroup.com.mrghasab.com.pitturagallery.com.love2dev.ir.sinacomplex.com.kermanmotors.motorcycles&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f`
 
-`tg://proxy?server=149.36.32.5&port=8010&secret=ee32b920dffb51643028e2f6b878d4eac1666172616b61762e636f6d`
+`tg://proxy?server=89.36.95.171&port=9443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d`
 
-`tg://proxy?server=rwqert.dynu.com&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
+`tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsn.prkbndomainss.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
 
-`tg://proxy?server=ipdaco.ir.imani45.ir.mah_abab.com.johnston.ir.20s_t_ore.ir.contratservice.com.ghadark_ar.com.mazraekouchakema.ir.e_lmofarhangschool.ir.mashhadnabat.ir.adglobe.ir.wp_s59146.ir.vbayati.ir.daroog.ir.neghabcity.ir.daryayenour.com.dedehpardazeshkavir.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f`
+`tg://proxy?server=www.bionew.store&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
 
-`tg://proxy?server=www.arvancloud.ir.www.mostango.info&port=443&secret=ee32b920dffb51643028e2f6b878d4eac179656b74616e65742e636f6d`
+`tg://proxy?server=5.206.229.75&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d`
 
-`tg://proxy?server=91.107.172.9&port=6968&secret=ee000000000000000000000000000000006b656161626f6e6c696e652e636f6d`
+`tg://proxy?server=108.181.126.90&port=443&secret=ee1603010200010001fc030386e24c3add687474703a2f2f62653235386464313164373430336631363462343438326235303464646164302e63646e2e6361666562617a6161722e636c6f7564`
 
-`tg://proxy?server=justmci.ayfilteri.online&port=443&secret=ee32b920dffb51643028e2f6b878d4eac16b65746161626f6e6c696e652e636f6d`
+`tg://proxy?server=64.226.81.121&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d`
 
-`tg://proxy?server=192.124.176.22&port=10086&secret=ee25e1c8bb5c2ee82fb51db9a7e6b6769d617a7572652e6d6963726f736f66742e636f6d`
+`tg://proxy?server=co.noki.co.222555ukeeeeeeee.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.co.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyodne.i_am.the_internt.special_sn.ddddwadawdaadaz.ee00443.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
 
-`tg://proxy?server=howzehmeshkat.ir.funbazi.ir.smmde_ntal.com.apaelevator.ir.rahepool.ir.dr-koosha.ir.shahabedalatian.ir.elec_tr_on-ic.com.zika.ir.gorgantamasha.com.aryaborhan.com.arinakizhan.com.emdadadmin.com.aligolbaz.com.plusplaza.ir.aminovip.ir.kavirmotor.motorcycles&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972`
+`tg://proxy?server=www.mashti.onmypc.info&port=443&secret=eee8f38541e7e14e99c0f386360977cf067777772e666172616b61762e636f6d`
 
-`tg://proxy?server=143.42.196.143&port=443&secret=ee62ac4fd5ada3580fc81f0fc383397e5a79616e6465782e636f6d`
+`tg://proxy?server=ikco.net.njamlak.ir.sayeroshanco.ir.drsadrerfani.ir.puadhesive.ir.artinnetwork.com.mirichimeh.ir.khoushetalaei.ir.bestbood.ir.estekhdamemroz.ir.shiasearch.com.farazkishtours.com.muhikan.com.noordid.com.pranaveg.ir.a.smasun-gphones.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
 
-`tg://proxy?server=divone.ts-phantom.autos&port=443&secret=ee32b920dffb51643028e2f6b878d4eac173332e616d617a6f6e6177732e636f6d`
+`tg://proxy?server=pharnak.com.dar-iran.org.visaunited.com.members-iiia.ir.tahaie.ir.tebsonate.com.tiwall.org.pmo_-co.com.hozhabrtrad_ing.com.candokala.com.aftabcloudy.com.pezhart.ir.butane_-kala.com.uatimepiece.c_om.azartire.ir.buysalestore.ir.ms-office.buzz&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
 
-`tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddnss.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsz---hsh.d_d_d222.new-doas.space.y-0-o.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972`
+`tg://proxy?server=wooden.championship.avoid.issue.drawing.killer.simbody-give-me.skin&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d`
 
