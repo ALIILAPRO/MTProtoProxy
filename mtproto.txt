@@ -1,1 +1,1 @@
-https://t.me/proxy?server=128.0.41.2&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+https://t.me/proxy?server=178.63.195.225&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
