@@ -1,1 +1,1 @@
-https://t.me/proxy?server=89.251.16.157&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=174.138.8.41&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
