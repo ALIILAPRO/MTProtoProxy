@@ -1,7 +1,6 @@
-https://t.me/proxy?server=116.203.41.111&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+https://t.me/proxy?server=cloudflare.com.Nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.zjln-q5hb.sbs.&port=7443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=84.19.190.159&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20AAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=88.198.106.35&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
-https://t.me/proxy?server=168.119.226.104&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+https://t.me/proxy?server=135.181.200.144&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.wonders-fact.sbs&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=46.4.208.80&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=144.76.161.131&port=8081&secret=3QAAAAAAAAAAAAAAAAAAAAA=
@@ -10,7 +9,6 @@ https://t.me/proxy?server=49.13.121.189&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=157.90.145.23&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=135.181.251.249&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=188.40.154.2&port=8585&secret=3QAAAAAAAAAAAAAAAAAAAAA=
-https://t.me/proxy?server=178.63.150.145&port=7585&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=94.130.229.59&port=443&secret=ee57797f3dab2e5ed85a4becdfb53e31b67777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=185.222.28.160&port=8080&secret=7hYDAQIAAQAB_AMDhuJMOt12YW4ubmFqdmEuY29tFgMBAgABAAEAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=91.107.183.176&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA
