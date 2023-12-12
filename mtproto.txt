@@ -1,9 +1,9 @@
 https://t.me/proxy?server=77.246.97.130&port=10&secret=3RYDAQIAAQAB_AMDhuJMOt1AAAAAAAAAAAAAAAAAAAAAmYXJha2F2LmNvbQ
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.aain_to_fight.everyone.i_am.the_inter.the_internet2.sbsmizanihaaa.sbs&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFrZXRhYWJvbmxpbmUuY29t
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.barcodevansing-ir.sbs&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.lexuescars.sbs&port=443&secret=AAAAAAAAAAAAAAAAAAAAAMQ=
 https://t.me/proxy?server=50.7.127.171&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=49.13.151.156&port=443&secret=ee85232b3a4670a19965f8446e2dc0f3cb7777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=143.244.178.109&port=6968&secret=7tPVGLym_d_AehR4ycpjWYJzcGVlZHRlc3QubmV0
+https://t.me/proxy?server=51.15.11.57&port=9191&secret=483de2881533667b60a718e9bf8049a5
+https://t.me/proxy?server=1.xn--x1h.1.1.1.1.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.xn--51h.1.w.w.w.w.w.w-w-w-w.xn--ww-0jx.666.techreviewer.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
 https://t.me/proxy?server=143.244.178.109&port=6968&secret=ddd3d518bca6fddfc07a1478c9ca635982
 https://t.me/proxy?server=46.4.208.80&port=443&secret=11111111111111111111111111111111
 https://t.me/proxy?server=142.93.133.204&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
@@ -14,3 +14,4 @@ https://t.me/proxy?server=159.223.14.205&port=443&secret=ee4a5bc618f9ec539a83b18
 https://t.me/proxy?server=159.223.14.205&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
 https://t.me/proxy?server=5.182.87.41&port=2&secret=ee85ab776fab792ada9d6001057be088f97777772e736f667439382e6972
 https://t.me/proxy?server=87.107.104.85&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAFnb29nbGUuY29t
+https://t.me/proxy?server=ProxyF.shahre-amozesh.ir&port=8085&secret=ee5fb4dcd963938957f6ecf4d6a49a21137777772e636c6f7564666c6172652e636f6d
