@@ -1,9 +1,8 @@
-https://t.me/proxy?server=77.105.139.166&port=10&secret=3RYDAQIAAQAB_AMDhuJMOt1AAAAAAAAAAAAAAAAAAAAAmYXJha2F2LmNvbQ
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.rahbord.sbs&port=443&secret=AAAAAAAAAAAAAAAAAAAAAMQ=
 https://t.me/proxy?server=88.198.129.184&port=8085&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=178.63.185.188&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=188.34.184.238&port=443&secret=DD00000000000000000000000000000000DE66
+https://t.me/proxy?server=95.216.63.33&port=40443&secret=dd1603010200010001fc030386e24c3add
+https://t.me/proxy?server=116.202.31.107&port=100&secret=FgMBAgABAAH8AwOG4kw63RQ=
 https://t.me/proxy?server=89.41.181.118&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
+https://t.me/proxy?server=5.35.32.64&port=10&secret=3RYDAQIAAQAB_AMDhuJMOt1AAAAAAAAAAAAAAAAAAAAAmYXJha2F2LmNvbQ
 https://t.me/proxy?server=195.2.93.225&port=10&secret=3RYDAQIAAQAB_AMDhuJMOt1AAAAAAAAAAAAAAAAAAAAAmYXJha2F2LmNvbQ
 https://t.me/proxy?server=109.107.175.16&port=10&secret=3RYDAQIAAQAB_AMDhuJMOt1AAAAAAAAAAAAAAAAAAAAAmYXJha2F2LmNvbQ
 https://t.me/proxy?server=178.62.227.18&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
