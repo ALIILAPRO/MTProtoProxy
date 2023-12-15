@@ -1,8 +1,10 @@
-https://t.me/proxy?server=95.216.63.33&port=40443&secret=dd1603010200010001fc030386e24c3add
-https://t.me/proxy?server=89.41.181.118&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
-https://t.me/proxy?server=85.204.107.103&port=443&secret=ee1603010200010001fc030386e24c3add33412e6d6574616c2d68616d6d65722e6465
-https://t.me/proxy?server=81.12.52.154&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAFnb29nbGUuY29t
-https://t.me/proxy?server=178.62.227.18&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
-https://t.me/proxy?server=178.62.227.18&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
-https://t.me/proxy?server=178.62.227.18&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
+https://t.me/proxy?server=212.69.14.34&port=7980&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.co.uk.com.rm.again_to_fight.everyone.i_am.the_internet.sbs-sbs-sbs-sbs.sbs&port=443&secret=3TK5IN_7UWQwKOL2uHjU6sE=
+https://t.me/proxy?server=almasshisheh.ir.widasstones.ir.bazareyas.ir.m-n_arjes.com.azar_zoghal.com.irsharj.online.sasansa_sanikiya.com.negarart.com.titangym1.com.namayejavani.ir.drmanadehbashizade.com.y_a_dakshow.ir.kcsco.ir.micom.ir.shopnoor.ir.morvarid-sos.ir.mihancompany.sbs&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=
+https://t.me/proxy?server=188.93.236.170&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=137.184.180.132&port=443&secret=7mJqJ13kp_mRsVdh2wYCsiJ2YW4ubmFqdmEuY29t
+https://t.me/proxy?server=109.107.172.216&port=10&secret=3RYDAQIAAQAB_AMDhuJMOt1AAAAAAAAAAAAAAAAAAAAAmYXJha2F2LmNvbQ
+https://t.me/proxy?server=5.75.229.142&port=443&secret=FgMBAgABAAH8AwOG4kw63RQ=
+https://t.me/proxy?server=138.201.35.176&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=89.41.181.118&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
