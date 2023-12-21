@@ -1,11 +1,12 @@
-https://t.me/proxy?server=78.47.4.214&port=2443&secret=ee1603010200010001fc030386e24c3add7370656564746573742e6e6574
+https://t.me/proxy?server=49.13.157.112&port=80&secret=3RYDAQIAAQAB_AMDhuJMOt0=
+https://t.me/proxy?server=I.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.L.sustainabilitymag.shop.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
+https://t.me/proxy?server=95.216.82.11&port=443&secret=ee1603010200010001fc030386e24c3add736b7970652e636f6d
 https://t.me/proxy?server=95.216.82.16&port=443&secret=ee1603010200010001fc030386e24c3add736b7970652e636f6d
-https://t.me/proxy?server=146.190.171.74&port=6968&secret=7oZ9SmW2BU6wc_-9cIW6o8BzMTAxLmRpdmFyY2RuLmNvbQ==
-https://t.me/proxy?server=146.190.38.254&port=7980&secret=7l_gQFTzuF-3LWB9678uvGZzMTAxLmRpdmFyY2RuLmNvbQ==
-https://t.me/proxy?server=148.251.250.61&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=188.93.236.170&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=185.222.28.242&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=148.251.243.9&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=176.9.73.217&port=1&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=62.84.103.39&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=188.166.96.148&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
 https://t.me/proxy?server=188.166.96.148&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=188.166.96.148&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
 https://t.me/proxy?server=165.232.89.204&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
@@ -14,3 +15,5 @@ https://t.me/proxy?server=165.232.89.204&port=443&secret=7kpbxhj57FOag7GCDhnKSn9
 https://t.me/proxy?server=188.166.36.172&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
 https://t.me/proxy?server=188.166.36.172&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=188.166.36.172&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
+https://t.me/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=proxytls.cloudflare.com.nokia.com.co.uk.this.www.microsoft.com.aras.co.there_is_no.ychxi_like.localhost.www.bing.com.cyou.com.ddns.net.sub_p.checkseo.yachts.prestigemotorsport.sbs.shahreketabshiraz.makeup.shahreketabkerman.makeup&port=443&secret=3QdYHNrVOxl8CpZRo-tcxUA=
