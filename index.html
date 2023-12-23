@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Spotdlrobot Lyrics</title>
+  <meta name="keywords" content="programmer, developer, aliilapro, coder, proxy, mtproto, telegram, tg">
+  <meta name="description" content="Get daily and high-speed MTProto proxy for Telegram.">
+  <meta property="og:title" content="Free MTProto Proxies">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="Get daily and high-speed MTProto proxy for Telegram.">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- <link rel="icon" type="image/x-icon" href="favicon.ico"> -->
+  <link rel="stylesheet" href="styles.css">
+  <title>Free MTProto Proxies</title>
+</head>
+
+<body>
+  <div class="topnav">
+    <a class="active" href="#home">Home</a>
+    <a href="https://t.me/telemtprotoproxy">Telegram Channel</a>
+    <a href="https://github.com/ALIILAPRO/MTProtoProxy">Project</a>
+  </div>
+  <h1>Free MTProto Proxies</h1>
+  <p>Get daily and high-speed MTProto proxy for Telegram</p>
+  <table id="proxy-table">
+    <tr>
+      <th>Number</th>
+      <th>Link</th>
+    </tr>
+  </table>
+  <script>
+    fetch('mtproto.txt')
+      .then((response) => response.text())
+      .then((text) => {
+        const table = document.getElementById('proxy-table');
+        const lines = text.split('\n');
+        lines.forEach((proxyLink, index) => {
+          if (!proxyLink.trim()) return;
+
+          const row = table.insertRow();
+          const countCell = row.insertCell();
+          const linkCell = row.insertCell();
+
+          countCell.innerText = index + 1;
+          linkCell.innerHTML = `<div class="link-preview" data-link="${proxyLink}">${proxyLink}</div>`;
+        });
+
+        document.querySelectorAll('.link-preview').forEach((linkPreview) => {
+          linkPreview.addEventListener('click', () => {
+            const linkToCopy = linkPreview.getAttribute('data-link');
+            copyToClipboard(linkToCopy);
+          });
+        });
+
+        function copyToClipboard(text) {
+          const textarea = document.createElement('textarea');
+          textarea.value = text;
+          document.body.appendChild(textarea);
+          textarea.select();
+          document.execCommand('copy');
+          document.body.removeChild(textarea);
+          alert(`Copied to clipboard: ${text}`);
+        }
+      }).catch((error) => console.error(error));
+  </script>
+</body>
+
+</html>
