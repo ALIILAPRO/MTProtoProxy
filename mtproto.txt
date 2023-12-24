@@ -1,10 +1,11 @@
+https://t.me/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=65.109.105.94&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.short-cats.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==
 https://t.me/proxy?server=148.251.250.62&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=128.0.41.128&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=95.216.140.198&port=9443&secret=7kQWAEQWAEQARBYEQWAARBZkZG4ueWVrdGFuZXQuY29tYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=188.40.255.123&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=178.63.236.0&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=95.216.59.171&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=95.216.59.173&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d
 https://t.me/proxy?server=148.251.250.63&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=178.63.70.219&port=17&secret=FgMBAgABAAH8AwOG4kw63Q==
@@ -22,6 +23,7 @@ https://t.me/proxy?server=178.62.225.177&port=443&secret=ee4a5bc618f9ec539a83b18
 https://t.me/proxy?server=178.62.225.177&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
 https://t.me/proxy?server=206.189.14.126&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
 https://t.me/proxy?server=206.189.14.126&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
+https://t.me/proxy?server=206.189.14.126&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
 https://t.me/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=87.107.146.147&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAFnb29nbGUuY29t
 https://t.me/proxy?server=159.65.57.36&port=8443&secret=eec8013aa02e855562aff0d3d872ea269f617a7572652e636f6d
