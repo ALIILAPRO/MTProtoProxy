@@ -1,10 +1,10 @@
-https://t.me/proxy?server=193.228.196.76&port=100&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=212.69.14.30&port=7980&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=212.69.14.30&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=193.228.196.75&port=100&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=195.201.22.43&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=138.201.172.34&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=193.228.196.76&port=100&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=143.198.56.147&port=7980&secret=7l_gQFTzuF-3LWB9678uvGZzMTAxLmRpdmFyY2RuLmNvbQ==
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.chotar-verch.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==
+https://t.me/proxy?server=146.190.175.209&port=2024&secret=7okmCSHHEPZJc3oBZgqoDvJzMTAxLmRpdmFyY2RuLmNvbQ==
+https://t.me/proxy?server=135.181.70.73&port=10&secret=3RYDAQIAAQAB_AMDhuJMOt1AAAAAAAAAAAAAAAAAAAAAmYXJha2F2LmNvbQ
+https://t.me/proxy?server=49.13.170.207&port=7443&secret=AAAAAAAAAAAAAAAAAAAAACQ=
 https://t.me/proxy?server=94.130.161.181&port=1&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=178.62.236.55&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
+https://t.me/proxy?server=188.166.23.71&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
