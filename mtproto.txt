@@ -9,12 +9,13 @@ https://t.me/proxy?server=95.216.59.171&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q=
 https://t.me/proxy?server=Cloudflare.com.Nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.low-qc.sbs.&port=3443&secret=AAAAAAAAAAAAAAAAAAAAAGQ=
 https://t.me/proxy?server=Cloudflare.com.Nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.my-pv.sbs.&port=3443&secret=AAAAAAAAAAAAAAAAAAAAAGQ=
 https://t.me/proxy?server=142.132.248.147&port=100&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=65.108.225.139&port=10&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=49.12.98.117&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ=
 https://t.me/proxy?server=49.13.160.11&port=8580&secret=ddba57b7f5c0de10abe866f10ea1f532fa
 https://t.me/proxy?server=24.144.84.83&port=6968&secret=dd81a806b051de6ad7f64a81625bd4dfa7
 https://t.me/proxy?server=89.41.181.118&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.bandar-chameh.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==
 https://t.me/proxy?server=167.235.173.139&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=65.108.225.139&port=10&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=65.109.99.34&port=10&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=46.4.108.123&port=9&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=164.90.206.140&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
