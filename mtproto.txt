@@ -8,8 +8,6 @@ https://t.me/proxy?server=195.201.236.101&port=6970&secret=FgMBAgABAAH8AwOG4kw63
 https://t.me/proxy?server=49.13.201.54&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ=
 https://t.me/proxy?server=49.13.201.74&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ=
 https://t.me/proxy?server=178.63.118.242&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=95.217.142.237&port=8443&secret=ee1603010200010001fc030386e24c3add676f64616464792e636f6d
-https://t.me/proxy?server=95.217.143.65&port=443&secret=ee1603010200010001fc030386e24c3add7370656564746573742e6e6574
 https://t.me/proxy?server=148.251.29.124&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=37.27.42.112&port=2023&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=49.12.9.126&port=2023&secret=FgMBAgABAAH8AwOG4kw63Q==
@@ -28,9 +26,5 @@ https://t.me/proxy?server=95.211.6.62&port=20&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=104.248.196.23&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
 https://t.me/proxy?server=104.248.196.23&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=104.248.196.23&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
-https://t.me/proxy?server=152.42.128.208&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
-https://t.me/proxy?server=152.42.128.208&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
-https://t.me/proxy?server=152.42.128.208&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
-https://t.me/proxy?server=152.42.128.241&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
-https://t.me/proxy?server=152.42.128.241&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
-https://t.me/proxy?server=152.42.128.241&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
+https://t.me/proxy?server=iran.kala-tehran.ir&port=1223&secret=ee00332089198001000020009070080000646c2e676f6f676c652e636f6d
+https://t.me/proxy?server=178.63.132.45&port=9443&secret=FgMBAgABAAH8AwOG4kw63Q==
