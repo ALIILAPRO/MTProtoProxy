@@ -1,6 +1,6 @@
+https://t.me/proxy?server=I.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.cyruscrafts.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
 https://t.me/proxy?server=46.4.186.40&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=95.216.7.13&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=5.75.156.60&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=cloudflare.com.nokia.com.web.rubika.ir.hector-mector.info&port=2040&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=136.243.175.156&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==
 https://t.me/proxy?server=95.217.124.131&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
@@ -16,6 +16,7 @@ https://t.me/proxy?server=176.9.238.184&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=88.198.129.184&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=88.198.129.185&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=80.85.241.90&port=29&secret=7hYDAQIAAQAB_AMDhuJMOt0=
+https://t.me/proxy?server=164.92.152.128&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
 https://t.me/proxy?server=164.92.152.128&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=164.92.152.128&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
 https://t.me/proxy?server=159.223.216.32&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
