@@ -12,6 +12,8 @@ https://t.me/proxy?server=www.howtonestforless.sbs.&port=443&secret=7gAAAAAAAAAA
 https://t.me/proxy?server=www.artescudellers.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
 https://t.me/proxy?server=178.63.67.35&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=88.99.250.220&port=6&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=128.140.57.5&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=88.99.122.62&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=80.85.246.160&port=9443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=80.85.247.198&port=9443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=134.209.198.254&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
