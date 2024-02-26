@@ -1,5 +1,12 @@
 https://t.me/proxy?server=136.243.250.36&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=141.95.101.170&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==
-https://t.me/proxy?server=138.201.86.252&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=89.44.198.163&port=10&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=144.76.64.51&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=5.75.251.255&port=65097&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=www.indiahandmade.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
+https://t.me/proxy?server=135.181.9.203&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e74676a752e6f7267
+https://t.me/proxy?server=188.213.0.88&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=www.howtonestforless.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
+https://t.me/proxy?server=www.artescudellers.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
+https://t.me/proxy?server=95.216.44.12&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=116.202.53.120&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=178.63.40.45&port=29&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=178.63.173.229&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
