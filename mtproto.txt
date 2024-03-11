@@ -10,6 +10,7 @@ https://t.me/proxy?server=188.34.160.18&port=65097&secret=FgMBAgABAAH8AwOG4kw63Q
 https://t.me/proxy?server=135.181.10.64&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=195.2.81.150&port=2028&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=www.fireworkscrazy.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
+https://t.me/proxy?server=www.centuryply.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
 https://t.me/proxy?server=135.181.36.239&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=195.201.109.56&port=6&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=95.217.47.81&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==
