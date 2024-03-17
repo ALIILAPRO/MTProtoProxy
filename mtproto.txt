@@ -1,7 +1,4 @@
-https://t.me/proxy?server=65.109.173.58&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=89.35.131.29&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=178.63.215.191&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.public-network.sbs.&port=2040&secret=FpABAiIBhwH8AwOG42xL3Q==
+https://t.me/proxy?server=136.243.250.34&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.voxin-moxin.sbs.&port=1201&secret=FpABAiIBhwH8AwOG42xL3Q==
 https://t.me/proxy?server=5.75.131.230&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=162.55.186.82&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
@@ -9,9 +6,14 @@ https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_wit
 https://t.me/proxy?server=135.181.10.74&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.mix-max.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=23.88.125.154&port=20403&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=89.44.198.162&port=10&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=89.44.198.165&port=10&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=www.redmoonfireworks.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
+https://t.me/proxy?server=www.cosmicfireworks.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
 https://t.me/proxy?server=5.75.233.77&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=188.40.154.6&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=5.75.231.245&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=49.13.7.32&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=77.238.230.2&port=8770&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=77.238.229.10&port=8770&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=135.181.156.44&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=65.109.141.26&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=iran.kala-tehran.ir&port=1223&secret=ee00332089198001000020009070080000646c2e676f6f676c652e636f6d
