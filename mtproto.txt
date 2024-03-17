@@ -1,10 +1,13 @@
 https://t.me/proxy?server=91.107.238.69&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=95.217.79.131&port=8443&secret=FgMBAgABAAHcAwOG4kw63Q==
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.regdal-cats.sbs.&port=7667&secret=FpABAiIBhwH8AwOG42xL3Q==
+https://t.me/proxy?server=49.13.90.251&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=37.27.24.235&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=65.109.141.26&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=135.181.10.74&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=188.40.154.4&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=65.108.209.154&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=95.217.161.25&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=5.75.233.77&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=116.202.99.201&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=168.119.183.110&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
