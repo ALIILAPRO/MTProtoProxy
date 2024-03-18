@@ -1,5 +1,4 @@
 https://t.me/proxy?server=94.130.97.152&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=157.90.167.220&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=78.47.124.16&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.public-network.sbs.&port=2040&secret=FpABAiIBhwH8AwOG42xL3Q==
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.regdal-cats.sbs.&port=7667&secret=FpABAiIBhwH8AwOG42xL3Q==
@@ -13,7 +12,6 @@ https://t.me/proxy?server=89.35.131.18&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=89.35.131.19&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=5.75.233.77&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=188.40.154.6&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=136.243.250.32&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=77.238.224.173&port=8085&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=77.238.225.241&port=8085&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=65.109.141.26&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
