@@ -1,15 +1,9 @@
 https://t.me/proxy?server=78.46.85.145&port=100&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=135.181.91.155&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=167.235.242.49&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=78.46.200.6&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.regdal-cats.sbs.&port=7667&secret=FpABAiIBhwH8AwOG42xL3Q==
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.public-network.sbs.&port=2040&secret=FpABAiIBhwH8AwOG42xL3Q==
-https://t.me/proxy?server=BUGATTI-KIA.IR.463-kia-ams.com-professor.coM.IR.greensea.GQ-tK.space-mL-gA.Co.uk.medical-compass.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=DODGE-JEEP.IR.963-dodge-amf.com-rullet.CoM.iR.graysea.tK-ml.alert-GL-Tk.co.Uk.power-shell.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=78.47.119.36&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=49.13.157.93&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=65.21.70.131&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=95.217.118.144&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.mr-rango.sbs.&port=8770&secret=FpABAiIBhwH8AwOG42xL3Q==
+https://t.me/proxy?server=64.52.81.12&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=px.amirenzo.com&port=443&secret=eeb52529959fb03d1d9103c9e49beb8c5373332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=px.amirenzo.com&port=443&secret=7rUlKZWfsD0dkQPJ5JvrjFNzMy5hbWF6b25hd3MuY29t
 https://t.me/proxy?server=www.centuryply.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=
@@ -19,6 +13,8 @@ https://t.me/proxy?server=95.217.78.206&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=176.9.151.20&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=5.9.57.250&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=80.85.246.109&port=8085&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=80.85.246.237&port=8085&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=95.217.15.206&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=78.46.41.52&port=100&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=iran.kala-tehran.ir&port=1223&secret=ee00332089198001000020009070080000646c2e676f6f676c652e636f6d
