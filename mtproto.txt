@@ -1,6 +1,7 @@
-https://t.me/proxy?server=128.140.13.248&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=140.233.187.68&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=140.233.187.62&port=12&secret=7mZge5CInMYHGdIXDLKFGWIrKi1f
+https://t.me/proxy?server=140.233.187.53&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=140.233.187.71&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.porublack-88.forum.&port=5777&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.works-shops.info.&port=7557&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=m-miad.ir.sarvdecor.ir.sa-eed-askari-nia.ir.pegahzanjan.com.ltos.ir.ab-artin.ir.attarihashemi.ir.b-ehtarinha.ir.davaran.com.khan-ebagheirani.net.bahardl.ir.cspf.ir.arzanpol.com.chaapin.ir.fardanmac--hine.com.taban-foolad.com.playstationsorenabandar.shop&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=
 https://t.me/proxy?server=mci.ir.apt-centos.org.&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
