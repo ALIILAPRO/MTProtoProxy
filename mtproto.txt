@@ -1,4 +1,3 @@
-https://t.me/proxy?server=37.27.8.188&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=5.35.69.110&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.ackf2rd.lat.&port=2741&secret=eeRigzNJvXrFGRMCIMJdEAPQ
 https://t.me/proxy?server=140.233.187.62&port=12&secret=7mZge5CInMYHGdIXDLKFGWIrKi1f
@@ -7,6 +6,7 @@ https://t.me/proxy?server=77.238.224.223&port=826&secret=7gggggggggggggggggggggh
 https://t.me/proxy?server=140.233.187.67&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=95.217.248.202&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=mci.ir.apt-centos.org.&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=www.talismanliner.info&port=443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=89.110.109.223&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=109.107.164.13&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=152.42.133.79&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
