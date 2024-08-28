@@ -1,8 +1,11 @@
+https://t.me/proxy?server=37.27.8.188&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=203.25.108.11&port=39329&secret=7gUQUQUQUQUQUQUQUQUQUQVtaWNyb3NvZnQuY29v
 https://t.me/proxy?server=140.233.187.63&port=12&secret=7mZge5CInMYHGdIXDLKFGWIrKi1f
 https://t.me/proxy?server=140.233.187.64&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=140.233.187.65&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.works-shops.info.&port=7557&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=77.238.224.22&port=999&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=23.88.114.112&port=83&secret=7s8J5YYVhvOdr-WqHy_58gV0cmVuZHMuZ29v
 https://t.me/proxy?server=95.217.248.202&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=mci.ir.apt-centos.org.&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=185.244.183.28&port=3895&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
