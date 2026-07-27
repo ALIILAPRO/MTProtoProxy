@@ -2,25 +2,23 @@
   {
     "host": "sop.foodpatuy.ir",
     "port": 443,
-    "secret": "3RBEYoISSb16xRkTAiDCXQk%3D",
     "connect_url": "https://t.me/proxy?server=sop.foodpatuy.ir&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
     "latency": 7,
     "operator": {
       "mci": 94,
       "irancell": 88,
       "fixed": 95,
-      "rightel": 68
+      "rightel": 70
     }
   },
   {
     "host": "valla.chemidonam.co.uk",
     "port": 443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "connect_url": "https://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
     "latency": 3,
     "operator": {
       "mci": 96,
-      "irancell": 97,
+      "irancell": 95,
       "fixed": 83,
       "rightel": 100
     }
@@ -28,7 +26,6 @@
   {
     "host": "204.168.208.130",
     "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
     "connect_url": "https://t.me/proxy?server=204.168.208.130&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
     "latency": 25,
     "operator": {
@@ -41,7 +38,6 @@
   {
     "host": "lux.lavazemi1.co.uk",
     "port": 2096,
-    "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
     "latency": 15,
     "operator": {
@@ -54,12 +50,11 @@
   {
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
-    "secret": "3RBEYoISSb16xRkTAiDCXQk%3D",
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
     "latency": 30,
     "operator": {
       "mci": 90,
-      "irancell": 74,
+      "irancell": 68,
       "fixed": 83,
       "rightel": 80
     }
@@ -67,25 +62,23 @@
   {
     "host": "webhook.what-ever.co.uk",
     "port": 443,
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 12,
     "operator": {
       "mci": 96,
       "irancell": 100,
-      "fixed": 86,
+      "fixed": 88,
       "rightel": 100
     }
   },
   {
     "host": "pathory.co.uk",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "connect_url": "https://t.me/proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 14,
     "operator": {
       "mci": 83,
-      "irancell": 91,
+      "irancell": 92,
       "fixed": 90,
       "rightel": 75
     }
@@ -93,7 +86,6 @@
   {
     "host": "ftp.jinxandjack.co.uk",
     "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
     "latency": 13,
     "operator": {
@@ -106,7 +98,6 @@
   {
     "host": "logs.jinxandjack.co.uk",
     "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
     "connect_url": "https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
     "latency": 9,
     "operator": {
@@ -119,7 +110,6 @@
   {
     "host": "br8ta.co.uk",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "connect_url": "https://t.me/proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 2,
     "operator": {
@@ -132,20 +122,18 @@
   {
     "host": "icon.davazdah.info",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "latency": 33,
     "operator": {
       "mci": 81,
       "irancell": 82,
-      "fixed": 83,
+      "fixed": 77,
       "rightel": 100
     }
   },
   {
     "host": "sorfezh.malfilk-voq.co.uk",
     "port": 443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "connect_url": "https://t.me/proxy?server=sorfezh.malfilk-voq.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
     "latency": 14,
     "operator": {
@@ -158,7 +146,6 @@
   {
     "host": "abo-ali-sina.basalam.info",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "latency": 16,
     "operator": {
@@ -171,11 +158,10 @@
   {
     "host": "bo9ss.co.uk",
     "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 8,
     "operator": {
-      "mci": 78,
+      "mci": 80,
       "irancell": 100,
       "fixed": 83,
       "rightel": null
@@ -184,7 +170,6 @@
   {
     "host": "app.what-ever.co.uk",
     "port": 443,
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "connect_url": "https://t.me/proxy?server=app.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 15,
     "operator": {
@@ -197,7 +182,6 @@
   {
     "host": "webhook.vingardium.co.uk",
     "port": 443,
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 9,
     "operator": {
@@ -210,7 +194,6 @@
   {
     "host": "server.nl-arvancloud.co.uk",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "latency": 8,
     "operator": {
@@ -223,7 +206,6 @@
   {
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
-    "secret": "dd104462821249bd7ac519130220c25d09",
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
     "latency": 20,
     "operator": {
@@ -236,7 +218,6 @@
   {
     "host": "webhook.what-ever.co.uk",
     "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
     "latency": 12,
     "operator": {
@@ -249,7 +230,6 @@
   {
     "host": "ftp.jinxandjack.co.uk",
     "port": 443,
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 14,
     "operator": {
@@ -257,396 +237,6 @@
       "irancell": 100,
       "fixed": 67,
       "rightel": 100
-    }
-  },
-  {
-    "host": "tge0a4dd98.koshkaproxy.shop",
-    "port": 443,
-    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "connect_url": "https://t.me/proxy?server=tge0a4dd98.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "latency": 0,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "tgb92cf27d.koshkaproxy.shop",
-    "port": 443,
-    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "connect_url": "https://t.me/proxy?server=tgb92cf27d.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "latency": 0,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "tg5dd5d6eb.koshkaproxy.shop",
-    "port": 443,
-    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "connect_url": "https://t.me/proxy?server=tg5dd5d6eb.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "latency": 0,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "tg98d29b25.koshkaproxy.shop",
-    "port": 443,
-    "secret": "ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "connect_url": "https://t.me/proxy?server=tg98d29b25.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70",
-    "latency": 0,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "host.mizbanonline.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "connect_url": "https://t.me/proxy?server=host.mizbanonline.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 2,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "logs.jinxandjack.co.uk",
-    "port": 443,
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "connect_url": "https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 4,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "dark.basicscotch.co.uk",
-    "port": 22,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "connect_url": "https://t.me/proxy?server=dark.basicscotch.co.uk&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 6,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "chelipa.co.uk",
-    "port": 443,
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "connect_url": "https://t.me/proxy?server=chelipa.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 10,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "bala.hastim.co.uk",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "connect_url": "https://t.me/proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 11,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "ftp.asiaadomainsshatelhamrahaval.co.uk",
-    "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D",
-    "connect_url": "https://t.me/proxy?server=ftp.asiaadomainsshatelhamrahaval.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 11,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "79.137.196.223",
-    "port": 443,
-    "secret": "eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d",
-    "connect_url": "https://t.me/proxy?server=79.137.196.223&port=443&secret=eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d",
-    "latency": 11,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "webhook.vingardium.co.uk",
-    "port": 443,
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 12,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "wook.mazhol.info",
-    "port": 443,
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
-    "connect_url": "https://t.me/proxy?server=wook.mazhol.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
-    "latency": 13,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "kala.golgoli1.co.uk",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "connect_url": "https://t.me/proxy?server=kala.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "latency": 14,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "92.246.87.243",
-    "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "connect_url": "https://t.me/proxy?server=92.246.87.243&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-    "latency": 14,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "176.65.135.69",
-    "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "connect_url": "https://t.me/proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-    "latency": 14,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "noron.talebi.co.uk",
-    "port": 2096,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "connect_url": "https://t.me/proxy?server=noron.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 14,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "new.vafadari.co.uk",
-    "port": 2096,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "connect_url": "https://t.me/proxy?server=new.vafadari.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 14,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "star.talebi.co.uk",
-    "port": 2096,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "connect_url": "https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 14,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "gold.lavazemi4.co.uk",
-    "port": 2096,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "connect_url": "https://t.me/proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 14,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "blue.golgoli2.co.uk",
-    "port": 2096,
-    "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "connect_url": "https://t.me/proxy?server=blue.golgoli2.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "latency": 14,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "shir.pesar.hedoit.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "connect_url": "https://t.me/proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 14,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "92.246.87.242",
-    "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "connect_url": "https://t.me/proxy?server=92.246.87.242&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-    "latency": 14,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "seems.simbol.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "connect_url": "https://t.me/proxy?server=seems.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 15,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "gallery.talebi.co.uk",
-    "port": 2096,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "connect_url": "https://t.me/proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 15,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "runpy.estakhr.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "connect_url": "https://t.me/proxy?server=runpy.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 15,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "194.120.230.106",
-    "port": 443,
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "connect_url": "https://t.me/proxy?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-    "latency": 15,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "chat.avacloud.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "connect_url": "https://t.me/proxy?server=chat.avacloud.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 15,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "api-web.asiaadomainsshatelhamrahaval.co.uk",
-    "port": 443,
-    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D",
-    "connect_url": "https://t.me/proxy?server=api-web.asiaadomainsshatelhamrahaval.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 16,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
-    }
-  },
-  {
-    "host": "worldcup.avacloud.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "connect_url": "https://t.me/proxy?server=worldcup.avacloud.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 16,
-    "operator": {
-      "mci": null,
-      "irancell": null,
-      "fixed": null,
-      "rightel": null
     }
   }
 ]
