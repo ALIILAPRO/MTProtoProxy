@@ -5,9 +5,9 @@
     "connect_url": "https://t.me/proxy?server=sop.foodpatuy.ir&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
     "latency": 7,
     "operator": {
-      "mci": 94,
-      "irancell": 88,
-      "fixed": 95,
+      "mci": 93,
+      "irancell": 87,
+      "fixed": 94,
       "rightel": 70
     }
   },
@@ -19,7 +19,7 @@
     "operator": {
       "mci": 96,
       "irancell": 95,
-      "fixed": 83,
+      "fixed": 84,
       "rightel": 100
     }
   },
@@ -29,7 +29,7 @@
     "connect_url": "https://t.me/proxy?server=204.168.208.130&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
     "latency": 25,
     "operator": {
-      "mci": 97,
+      "mci": 95,
       "irancell": 100,
       "fixed": 91,
       "rightel": 100
@@ -41,8 +41,8 @@
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
     "latency": 15,
     "operator": {
-      "mci": 84,
-      "irancell": 91,
+      "mci": 85,
+      "irancell": 92,
       "fixed": 74,
       "rightel": 100
     }
@@ -54,7 +54,7 @@
     "latency": 30,
     "operator": {
       "mci": 90,
-      "irancell": 68,
+      "irancell": 69,
       "fixed": 83,
       "rightel": 80
     }
@@ -156,18 +156,6 @@
     }
   },
   {
-    "host": "bo9ss.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 8,
-    "operator": {
-      "mci": 80,
-      "irancell": 100,
-      "fixed": 83,
-      "rightel": null
-    }
-  },
-  {
     "host": "app.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=app.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
@@ -176,6 +164,18 @@
       "mci": 100,
       "irancell": 100,
       "fixed": 75,
+      "rightel": null
+    }
+  },
+  {
+    "host": "bo9ss.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "latency": 8,
+    "operator": {
+      "mci": 73,
+      "irancell": 100,
+      "fixed": 83,
       "rightel": null
     }
   },
