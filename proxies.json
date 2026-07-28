@@ -31,7 +31,7 @@
     "operator": {
       "mci": 97,
       "irancell": 94,
-      "fixed": 93,
+      "fixed": 92,
       "rightel": 95
     }
   },
@@ -55,7 +55,7 @@
     "operator": {
       "mci": 88,
       "irancell": 91,
-      "fixed": 87,
+      "fixed": 88,
       "rightel": 56
     }
   },
@@ -127,7 +127,7 @@
     "operator": {
       "mci": 89,
       "irancell": 85,
-      "fixed": 81,
+      "fixed": 82,
       "rightel": 80
     }
   },
@@ -156,18 +156,6 @@
     }
   },
   {
-    "host": "server.nl-arvancloud.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 14,
-    "operator": {
-      "mci": 87,
-      "irancell": 77,
-      "fixed": 88,
-      "rightel": 100
-    }
-  },
-  {
     "host": "webhook.vingardium.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
@@ -180,15 +168,15 @@
     }
   },
   {
-    "host": "ftp.jinxandjack.co.uk",
+    "host": "server.nl-arvancloud.co.uk",
     "port": 443,
-    "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 7,
+    "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "latency": 14,
     "operator": {
-      "mci": 96,
-      "irancell": 86,
-      "fixed": 83,
-      "rightel": 50
+      "mci": 87,
+      "irancell": 77,
+      "fixed": 88,
+      "rightel": 75
     }
   },
   {
@@ -198,9 +186,21 @@
     "latency": 1,
     "operator": {
       "mci": 96,
-      "irancell": 80,
+      "irancell": 81,
       "fixed": 80,
       "rightel": 75
+    }
+  },
+  {
+    "host": "ftp.jinxandjack.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "latency": 7,
+    "operator": {
+      "mci": 96,
+      "irancell": 86,
+      "fixed": 77,
+      "rightel": 67
     }
   },
   {
