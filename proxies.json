@@ -6,7 +6,7 @@
     "latency": 36,
     "operator": {
       "mci": 93,
-      "irancell": 85,
+      "irancell": 86,
       "fixed": 93,
       "rightel": 67
     }
@@ -15,7 +15,7 @@
     "host": "valla.chemidonam.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 16,
+    "latency": 14,
     "operator": {
       "mci": 95,
       "irancell": 93,
@@ -54,7 +54,7 @@
     "latency": 16,
     "operator": {
       "mci": 92,
-      "irancell": 66,
+      "irancell": 67,
       "fixed": 83,
       "rightel": 80
     }
@@ -66,7 +66,7 @@
     "latency": 27,
     "operator": {
       "mci": 94,
-      "irancell": 87,
+      "irancell": 82,
       "fixed": 82,
       "rightel": 100
     }
@@ -77,22 +77,10 @@
     "connect_url": "https://t.me/proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 31,
     "operator": {
-      "mci": 84,
+      "mci": 85,
       "irancell": 94,
       "fixed": 90,
       "rightel": 75
-    }
-  },
-  {
-    "host": "logs.jinxandjack.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 3,
-    "operator": {
-      "mci": 95,
-      "irancell": 93,
-      "fixed": 100,
-      "rightel": 100
     }
   },
   {
@@ -108,6 +96,18 @@
     }
   },
   {
+    "host": "logs.jinxandjack.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
+    "latency": 3,
+    "operator": {
+      "mci": 95,
+      "irancell": 88,
+      "fixed": 100,
+      "rightel": 100
+    }
+  },
+  {
     "host": "br8ta.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
@@ -115,7 +115,7 @@
     "operator": {
       "mci": 93,
       "irancell": 93,
-      "fixed": 91,
+      "fixed": 92,
       "rightel": 67
     }
   },
@@ -123,7 +123,7 @@
     "host": "sorfezh.malfilk-voq.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sorfezh.malfilk-voq.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 12,
+    "latency": 17,
     "operator": {
       "mci": 100,
       "irancell": 100,
