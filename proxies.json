@@ -7,7 +7,7 @@
     "operator": {
       "mci": 92,
       "irancell": 86,
-      "fixed": 92,
+      "fixed": 91,
       "rightel": 75
     }
   },
@@ -19,7 +19,7 @@
     "operator": {
       "mci": 94,
       "irancell": 93,
-      "fixed": 85,
+      "fixed": 86,
       "rightel": 93
     }
   },
@@ -30,7 +30,7 @@
     "latency": 25,
     "operator": {
       "mci": 97,
-      "irancell": 94,
+      "irancell": 95,
       "fixed": 92,
       "rightel": 98
     }
@@ -78,7 +78,7 @@
     "latency": 2,
     "operator": {
       "mci": 87,
-      "irancell": 91,
+      "irancell": 90,
       "fixed": 82,
       "rightel": 100
     }
@@ -87,7 +87,7 @@
     "host": "webhook.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 8,
+    "latency": 13,
     "operator": {
       "mci": 90,
       "irancell": 80,
@@ -102,7 +102,7 @@
     "latency": 15,
     "operator": {
       "mci": 93,
-      "irancell": 84,
+      "irancell": 85,
       "fixed": 80,
       "rightel": 67
     }
@@ -111,10 +111,10 @@
     "host": "app.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=app.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 5,
+    "latency": 37,
     "operator": {
       "mci": 100,
-      "irancell": 84,
+      "irancell": 86,
       "fixed": 83,
       "rightel": null
     }
@@ -123,7 +123,7 @@
     "host": "ftp.jinxandjack.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 7,
+    "latency": 9,
     "operator": {
       "mci": 87,
       "irancell": 87,
@@ -159,24 +159,12 @@
     "host": "webhook.vingardium.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 32,
+    "latency": 13,
     "operator": {
       "mci": 87,
       "irancell": 86,
       "fixed": 90,
       "rightel": null
-    }
-  },
-  {
-    "host": "ftp.jinxandjack.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 12,
-    "operator": {
-      "mci": 95,
-      "irancell": 88,
-      "fixed": 80,
-      "rightel": 50
     }
   },
   {
@@ -186,9 +174,21 @@
     "latency": 1,
     "operator": {
       "mci": 86,
-      "irancell": 75,
+      "irancell": 76,
       "fixed": 83,
       "rightel": 100
+    }
+  },
+  {
+    "host": "ftp.jinxandjack.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "latency": 16,
+    "operator": {
+      "mci": 95,
+      "irancell": 88,
+      "fixed": 80,
+      "rightel": 50
     }
   },
   {
@@ -197,7 +197,7 @@
     "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 7,
     "operator": {
-      "mci": 85,
+      "mci": 86,
       "irancell": 84,
       "fixed": 73,
       "rightel": 100
@@ -207,10 +207,10 @@
     "host": "webhook.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 7,
+    "latency": 6,
     "operator": {
       "mci": 95,
-      "irancell": 79,
+      "irancell": 81,
       "fixed": 77,
       "rightel": 75
     }
@@ -219,10 +219,10 @@
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
-    "latency": 1043,
+    "latency": 7,
     "operator": {
       "mci": 92,
-      "irancell": 63,
+      "irancell": 65,
       "fixed": 83,
       "rightel": 100
     }
