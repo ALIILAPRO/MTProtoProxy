@@ -19,7 +19,7 @@
     "operator": {
       "mci": 94,
       "irancell": 94,
-      "fixed": 83,
+      "fixed": 82,
       "rightel": 92
     }
   },
@@ -30,7 +30,7 @@
     "latency": 25,
     "operator": {
       "mci": 96,
-      "irancell": 98,
+      "irancell": 97,
       "fixed": 90,
       "rightel": 100
     }
@@ -43,7 +43,7 @@
     "operator": {
       "mci": 86,
       "irancell": 91,
-      "fixed": 74,
+      "fixed": 73,
       "rightel": 79
     }
   },
@@ -54,8 +54,8 @@
     "latency": 15,
     "operator": {
       "mci": 94,
-      "irancell": 71,
-      "fixed": 83,
+      "irancell": 72,
+      "fixed": 84,
       "rightel": 67
     }
   },
@@ -67,7 +67,7 @@
     "operator": {
       "mci": 86,
       "irancell": 97,
-      "fixed": 89,
+      "fixed": 86,
       "rightel": 67
     }
   },
@@ -79,7 +79,7 @@
     "operator": {
       "mci": 90,
       "irancell": 100,
-      "fixed": 76,
+      "fixed": 74,
       "rightel": 100
     }
   },
@@ -91,7 +91,7 @@
     "operator": {
       "mci": 89,
       "irancell": 78,
-      "fixed": 76,
+      "fixed": 74,
       "rightel": 50
     }
   },
@@ -103,7 +103,7 @@
     "operator": {
       "mci": 94,
       "irancell": 85,
-      "fixed": 78,
+      "fixed": 80,
       "rightel": 67
     }
   },
@@ -127,7 +127,7 @@
     "operator": {
       "mci": 88,
       "irancell": 90,
-      "fixed": 79,
+      "fixed": 80,
       "rightel": 80
     }
   },
@@ -139,7 +139,7 @@
     "operator": {
       "mci": 100,
       "irancell": 79,
-      "fixed": 83,
+      "fixed": 86,
       "rightel": null
     }
   },
@@ -150,21 +150,9 @@
     "latency": 15,
     "operator": {
       "mci": 86,
-      "irancell": 86,
-      "fixed": 86,
+      "irancell": 87,
+      "fixed": 88,
       "rightel": null
-    }
-  },
-  {
-    "host": "icon.davazdah.info",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 39,
-    "operator": {
-      "mci": 85,
-      "irancell": 76,
-      "fixed": 71,
-      "rightel": 75
     }
   },
   {
@@ -175,8 +163,20 @@
     "operator": {
       "mci": 82,
       "irancell": 79,
-      "fixed": 78,
+      "fixed": 80,
       "rightel": 100
+    }
+  },
+  {
+    "host": "icon.davazdah.info",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "latency": 39,
+    "operator": {
+      "mci": 85,
+      "irancell": 76,
+      "fixed": 67,
+      "rightel": 75
     }
   },
   {
@@ -185,9 +185,9 @@
     "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 12,
     "operator": {
-      "mci": 87,
-      "irancell": 85,
-      "fixed": 86,
+      "mci": 81,
+      "irancell": 87,
+      "fixed": 88,
       "rightel": null
     }
   },
@@ -198,7 +198,7 @@
     "latency": 12,
     "operator": {
       "mci": 94,
-      "irancell": 80,
+      "irancell": 82,
       "fixed": 75,
       "rightel": 50
     }
@@ -234,7 +234,7 @@
     "latency": 11,
     "operator": {
       "mci": 82,
-      "irancell": 64,
+      "irancell": 67,
       "fixed": 88,
       "rightel": null
     }
