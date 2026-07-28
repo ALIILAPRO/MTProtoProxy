@@ -51,7 +51,7 @@
     "host": "pathory.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 5,
+    "latency": 14,
     "operator": {
       "mci": 88,
       "irancell": 91,
@@ -171,7 +171,7 @@
     "host": "bo9ss.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 8,
+    "latency": 7,
     "operator": {
       "mci": 86,
       "irancell": 83,
