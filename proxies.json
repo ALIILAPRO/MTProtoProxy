@@ -3,7 +3,7 @@
     "host": "sop.foodpatuy.ir",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sop.foodpatuy.ir&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 36,
+    "latency": 35,
     "operator": {
       "mci": 93,
       "irancell": 86,
@@ -19,7 +19,7 @@
     "operator": {
       "mci": 95,
       "irancell": 93,
-      "fixed": 85,
+      "fixed": 84,
       "rightel": 100
     }
   },
@@ -29,9 +29,9 @@
     "connect_url": "https://t.me/proxy?server=204.168.208.130&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
     "latency": 25,
     "operator": {
-      "mci": 94,
+      "mci": 95,
       "irancell": 97,
-      "fixed": 88,
+      "fixed": 86,
       "rightel": 100
     }
   },
@@ -42,8 +42,8 @@
     "latency": 14,
     "operator": {
       "mci": 85,
-      "irancell": 91,
-      "fixed": 74,
+      "irancell": 89,
+      "fixed": 75,
       "rightel": 100
     }
   },
@@ -51,10 +51,10 @@
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 16,
+    "latency": 9,
     "operator": {
       "mci": 92,
-      "irancell": 67,
+      "irancell": 68,
       "fixed": 83,
       "rightel": 80
     }
@@ -66,7 +66,7 @@
     "latency": 27,
     "operator": {
       "mci": 94,
-      "irancell": 82,
+      "irancell": 79,
       "fixed": 82,
       "rightel": 100
     }
@@ -90,20 +90,8 @@
     "latency": 78,
     "operator": {
       "mci": 90,
-      "irancell": 100,
+      "irancell": 93,
       "fixed": 90,
-      "rightel": 100
-    }
-  },
-  {
-    "host": "logs.jinxandjack.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 3,
-    "operator": {
-      "mci": 95,
-      "irancell": 88,
-      "fixed": 100,
       "rightel": 100
     }
   },
@@ -113,10 +101,22 @@
     "connect_url": "https://t.me/proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 8,
     "operator": {
-      "mci": 93,
-      "irancell": 93,
+      "mci": 94,
+      "irancell": 94,
       "fixed": 92,
       "rightel": 67
+    }
+  },
+  {
+    "host": "logs.jinxandjack.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
+    "latency": 3,
+    "operator": {
+      "mci": 95,
+      "irancell": 82,
+      "fixed": 100,
+      "rightel": 100
     }
   },
   {
@@ -137,8 +137,8 @@
     "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "latency": 66,
     "operator": {
-      "mci": 82,
-      "irancell": 79,
+      "mci": 83,
+      "irancell": 73,
       "fixed": 79,
       "rightel": 100
     }
@@ -150,7 +150,7 @@
     "latency": 14,
     "operator": {
       "mci": 100,
-      "irancell": 88,
+      "irancell": 78,
       "fixed": 80,
       "rightel": null
     }
@@ -162,7 +162,7 @@
     "latency": 28,
     "operator": {
       "mci": 83,
-      "irancell": 90,
+      "irancell": 82,
       "fixed": 100,
       "rightel": null
     }
@@ -171,10 +171,10 @@
     "host": "webhook.vingardium.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 17,
+    "latency": 12,
     "operator": {
       "mci": 80,
-      "irancell": 91,
+      "irancell": 83,
       "fixed": 100,
       "rightel": null
     }
@@ -185,8 +185,8 @@
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
     "latency": 7,
     "operator": {
-      "mci": 91,
-      "irancell": 80,
+      "mci": 92,
+      "irancell": 67,
       "fixed": 83,
       "rightel": 100
     }
@@ -195,10 +195,10 @@
     "host": "ftp.jinxandjack.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 12,
+    "latency": 21,
     "operator": {
       "mci": 91,
-      "irancell": 100,
+      "irancell": 83,
       "fixed": 67,
       "rightel": 100
     }
@@ -210,7 +210,7 @@
     "latency": 1,
     "operator": {
       "mci": 73,
-      "irancell": 89,
+      "irancell": 90,
       "fixed": 71,
       "rightel": null
     }
@@ -222,7 +222,7 @@
     "latency": 13,
     "operator": {
       "mci": 77,
-      "irancell": 83,
+      "irancell": 71,
       "fixed": 100,
       "rightel": null
     }
@@ -234,7 +234,7 @@
     "latency": 3,
     "operator": {
       "mci": 86,
-      "irancell": 33,
+      "irancell": 43,
       "fixed": 100,
       "rightel": 100
     }
