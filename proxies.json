@@ -32,7 +32,7 @@
       "mci": 97,
       "irancell": 94,
       "fixed": 93,
-      "rightel": 96
+      "rightel": 97
     }
   },
   {
@@ -42,9 +42,9 @@
     "latency": 14,
     "operator": {
       "mci": 89,
-      "irancell": 86,
+      "irancell": 87,
       "fixed": 80,
-      "rightel": 84
+      "rightel": 85
     }
   },
   {
@@ -55,7 +55,7 @@
     "operator": {
       "mci": 88,
       "irancell": 91,
-      "fixed": 86,
+      "fixed": 87,
       "rightel": 56
     }
   },
@@ -67,7 +67,7 @@
     "operator": {
       "mci": 89,
       "irancell": 88,
-      "fixed": 84,
+      "fixed": 86,
       "rightel": 100
     }
   },
@@ -79,7 +79,7 @@
     "operator": {
       "mci": 89,
       "irancell": 73,
-      "fixed": 77,
+      "fixed": 78,
       "rightel": 67
     }
   },
@@ -91,7 +91,7 @@
     "operator": {
       "mci": 91,
       "irancell": 81,
-      "fixed": 78,
+      "fixed": 79,
       "rightel": 75
     }
   },
@@ -103,7 +103,7 @@
     "operator": {
       "mci": 93,
       "irancell": 83,
-      "fixed": 82,
+      "fixed": 83,
       "rightel": 75
     }
   },
@@ -115,7 +115,7 @@
     "operator": {
       "mci": 100,
       "irancell": 83,
-      "fixed": 79,
+      "fixed": 80,
       "rightel": 100
     }
   },
@@ -127,7 +127,7 @@
     "operator": {
       "mci": 89,
       "irancell": 85,
-      "fixed": 80,
+      "fixed": 81,
       "rightel": 80
     }
   },
@@ -150,21 +150,21 @@
     "latency": 38,
     "operator": {
       "mci": 89,
-      "irancell": 78,
-      "fixed": 68,
+      "irancell": 79,
+      "fixed": 70,
       "rightel": 80
     }
   },
   {
-    "host": "webhook.vingardium.co.uk",
+    "host": "server.nl-arvancloud.co.uk",
     "port": 443,
-    "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 12,
+    "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "latency": 14,
     "operator": {
-      "mci": 85,
-      "irancell": 83,
-      "fixed": 92,
-      "rightel": null
+      "mci": 87,
+      "irancell": 76,
+      "fixed": 88,
+      "rightel": 100
     }
   },
   {
@@ -174,21 +174,21 @@
     "latency": 7,
     "operator": {
       "mci": 87,
-      "irancell": 82,
-      "fixed": 77,
+      "irancell": 83,
+      "fixed": 79,
       "rightel": 100
     }
   },
   {
-    "host": "server.nl-arvancloud.co.uk",
+    "host": "webhook.vingardium.co.uk",
     "port": 443,
-    "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 8,
+    "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "latency": 12,
     "operator": {
-      "mci": 87,
-      "irancell": 75,
-      "fixed": 86,
-      "rightel": 100
+      "mci": 85,
+      "irancell": 84,
+      "fixed": 92,
+      "rightel": null
     }
   },
   {
@@ -198,8 +198,8 @@
     "latency": 1,
     "operator": {
       "mci": 96,
-      "irancell": 79,
-      "fixed": 79,
+      "irancell": 80,
+      "fixed": 80,
       "rightel": 75
     }
   },
@@ -210,8 +210,8 @@
     "latency": 7,
     "operator": {
       "mci": 96,
-      "irancell": 85,
-      "fixed": 82,
+      "irancell": 86,
+      "fixed": 83,
       "rightel": 50
     }
   },
@@ -222,8 +222,8 @@
     "latency": 26,
     "operator": {
       "mci": 86,
-      "irancell": 77,
-      "fixed": 82,
+      "irancell": 79,
+      "fixed": 83,
       "rightel": null
     }
   },
@@ -234,8 +234,8 @@
     "latency": 0,
     "operator": {
       "mci": 93,
-      "irancell": 58,
-      "fixed": 77,
+      "irancell": 57,
+      "fixed": 79,
       "rightel": 100
     }
   }
