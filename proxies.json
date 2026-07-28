@@ -3,7 +3,7 @@
     "host": "sop.foodpatuy.ir",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sop.foodpatuy.ir&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 7,
+    "latency": 26,
     "operator": {
       "mci": 91,
       "irancell": 86,
@@ -54,9 +54,9 @@
     "latency": 5,
     "operator": {
       "mci": 88,
-      "irancell": 92,
+      "irancell": 91,
       "fixed": 89,
-      "rightel": 56
+      "rightel": 60
     }
   },
   {
@@ -75,7 +75,7 @@
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 15,
+    "latency": 14,
     "operator": {
       "mci": 88,
       "irancell": 73,
@@ -149,7 +149,7 @@
     "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "latency": 45,
     "operator": {
-      "mci": 88,
+      "mci": 89,
       "irancell": 80,
       "fixed": 70,
       "rightel": 83
