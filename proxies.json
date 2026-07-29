@@ -20,31 +20,31 @@
       "mci": 97,
       "irancell": 95,
       "fixed": 93,
-      "rightel": 92
+      "rightel": 91
     }
   },
   {
     "host": "valla.chemidonam.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 3,
+    "latency": 4,
     "operator": {
       "mci": 93,
-      "irancell": 92,
+      "irancell": 93,
       "fixed": 87,
-      "rightel": 90
+      "rightel": 89
     }
   },
   {
     "host": "lux.lavazemi1.co.uk",
     "port": 2096,
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "latency": 14,
+    "latency": 21,
     "operator": {
       "mci": 87,
       "irancell": 86,
-      "fixed": 81,
-      "rightel": 83
+      "fixed": 82,
+      "rightel": 84
     }
   },
   {
@@ -55,7 +55,7 @@
     "operator": {
       "mci": 89,
       "irancell": 90,
-      "fixed": 90,
+      "fixed": 91,
       "rightel": 60
     }
   },
@@ -68,7 +68,7 @@
       "mci": 89,
       "irancell": 89,
       "fixed": 88,
-      "rightel": 86
+      "rightel": 88
     }
   },
   {
@@ -149,10 +149,10 @@
     "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "latency": 9,
     "operator": {
-      "mci": 90,
+      "mci": 88,
       "irancell": 77,
       "fixed": 74,
-      "rightel": 83
+      "rightel": 86
     }
   },
   {
@@ -176,7 +176,7 @@
       "mci": 87,
       "irancell": 82,
       "fixed": 81,
-      "rightel": 100
+      "rightel": 83
     }
   },
   {
@@ -188,18 +188,6 @@
       "mci": 94,
       "irancell": 78,
       "fixed": 83,
-      "rightel": 75
-    }
-  },
-  {
-    "host": "server.nl-arvancloud.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 0,
-    "operator": {
-      "mci": 87,
-      "irancell": 71,
-      "fixed": 79,
       "rightel": 75
     }
   },
@@ -225,6 +213,18 @@
       "irancell": 80,
       "fixed": 80,
       "rightel": null
+    }
+  },
+  {
+    "host": "server.nl-arvancloud.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "latency": 0,
+    "operator": {
+      "mci": 85,
+      "irancell": 71,
+      "fixed": 79,
+      "rightel": 75
     }
   },
   {
