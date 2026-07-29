@@ -6,7 +6,7 @@
     "latency": 36,
     "operator": {
       "mci": 91,
-      "irancell": 86,
+      "irancell": 87,
       "fixed": 89,
       "rightel": 76
     }
@@ -18,7 +18,7 @@
     "latency": 15,
     "operator": {
       "mci": 93,
-      "irancell": 93,
+      "irancell": 92,
       "fixed": 88,
       "rightel": 90
     }
@@ -102,7 +102,7 @@
     "latency": 16,
     "operator": {
       "mci": 91,
-      "irancell": 81,
+      "irancell": 82,
       "fixed": 86,
       "rightel": 75
     }
@@ -147,7 +147,7 @@
     "host": "icon.davazdah.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 304,
+    "latency": 27,
     "operator": {
       "mci": 89,
       "irancell": 75,
@@ -231,7 +231,7 @@
     "host": "abo-ali-sina.basalam.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 73,
+    "latency": 25,
     "operator": {
       "mci": 88,
       "irancell": 80,
