@@ -15,12 +15,12 @@
     "host": "valla.chemidonam.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 9,
+    "latency": 15,
     "operator": {
       "mci": 93,
       "irancell": 93,
       "fixed": 88,
-      "rightel": 93
+      "rightel": 92
     }
   },
   {
@@ -39,11 +39,11 @@
     "host": "lux.lavazemi1.co.uk",
     "port": 2096,
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "latency": 14,
+    "latency": 15,
     "operator": {
       "mci": 87,
       "irancell": 86,
-      "fixed": 82,
+      "fixed": 81,
       "rightel": 86
     }
   },
@@ -55,7 +55,7 @@
     "operator": {
       "mci": 88,
       "irancell": 90,
-      "fixed": 89,
+      "fixed": 90,
       "rightel": 60
     }
   },
@@ -63,11 +63,11 @@
     "host": "sorfezh.malfilk-voq.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sorfezh.malfilk-voq.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 11,
+    "latency": 6,
     "operator": {
       "mci": 88,
-      "irancell": 89,
-      "fixed": 86,
+      "irancell": 90,
+      "fixed": 87,
       "rightel": 86
     }
   },
@@ -139,20 +139,8 @@
     "operator": {
       "mci": 89,
       "irancell": 78,
-      "fixed": 72,
+      "fixed": 73,
       "rightel": 83
-    }
-  },
-  {
-    "host": "ftp.jinxandjack.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 9,
-    "operator": {
-      "mci": 97,
-      "irancell": 88,
-      "fixed": 80,
-      "rightel": 67
     }
   },
   {
@@ -168,13 +156,25 @@
     }
   },
   {
+    "host": "ftp.jinxandjack.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "latency": 9,
+    "operator": {
+      "mci": 97,
+      "irancell": 88,
+      "fixed": 80,
+      "rightel": 67
+    }
+  },
+  {
     "host": "bo9ss.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 7,
     "operator": {
       "mci": 87,
-      "irancell": 80,
+      "irancell": 81,
       "fixed": 80,
       "rightel": 100
     }
