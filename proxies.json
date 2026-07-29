@@ -8,7 +8,7 @@
       "mci": 91,
       "irancell": 86,
       "fixed": 89,
-      "rightel": 76
+      "rightel": 77
     }
   },
   {
@@ -42,7 +42,7 @@
     "latency": 14,
     "operator": {
       "mci": 87,
-      "irancell": 87,
+      "irancell": 86,
       "fixed": 82,
       "rightel": 86
     }
@@ -54,7 +54,7 @@
     "latency": 9,
     "operator": {
       "mci": 88,
-      "irancell": 91,
+      "irancell": 90,
       "fixed": 89,
       "rightel": 60
     }
@@ -79,7 +79,7 @@
     "operator": {
       "mci": 88,
       "irancell": 73,
-      "fixed": 78,
+      "fixed": 79,
       "rightel": 67
     }
   },
@@ -91,7 +91,7 @@
     "operator": {
       "mci": 90,
       "irancell": 79,
-      "fixed": 79,
+      "fixed": 77,
       "rightel": 75
     }
   },
@@ -103,7 +103,7 @@
     "operator": {
       "mci": 91,
       "irancell": 83,
-      "fixed": 85,
+      "fixed": 86,
       "rightel": 75
     }
   },
@@ -115,7 +115,7 @@
     "operator": {
       "mci": 95,
       "irancell": 81,
-      "fixed": 81,
+      "fixed": 82,
       "rightel": 100
     }
   },
@@ -126,8 +126,8 @@
     "latency": 15,
     "operator": {
       "mci": 90,
-      "irancell": 85,
-      "fixed": 79,
+      "irancell": 86,
+      "fixed": 80,
       "rightel": 80
     }
   },
@@ -135,12 +135,24 @@
     "host": "icon.davazdah.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 301,
+    "latency": 304,
     "operator": {
       "mci": 89,
       "irancell": 78,
-      "fixed": 70,
+      "fixed": 72,
       "rightel": 83
+    }
+  },
+  {
+    "host": "br8ta.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "latency": 8,
+    "operator": {
+      "mci": 78,
+      "irancell": 76,
+      "fixed": 84,
+      "rightel": 67
     }
   },
   {
@@ -151,32 +163,8 @@
     "operator": {
       "mci": 97,
       "irancell": 88,
-      "fixed": 79,
+      "fixed": 80,
       "rightel": 67
-    }
-  },
-  {
-    "host": "br8ta.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 8,
-    "operator": {
-      "mci": 77,
-      "irancell": 75,
-      "fixed": 83,
-      "rightel": 67
-    }
-  },
-  {
-    "host": "webhook.vingardium.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 12,
-    "operator": {
-      "mci": 85,
-      "irancell": 83,
-      "fixed": 87,
-      "rightel": null
     }
   },
   {
@@ -186,20 +174,8 @@
     "latency": 1,
     "operator": {
       "mci": 97,
-      "irancell": 80,
-      "fixed": 80,
-      "rightel": 75
-    }
-  },
-  {
-    "host": "server.nl-arvancloud.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 20,
-    "operator": {
-      "mci": 86,
-      "irancell": 77,
-      "fixed": 82,
+      "irancell": 81,
+      "fixed": 81,
       "rightel": 75
     }
   },
@@ -211,19 +187,43 @@
     "operator": {
       "mci": 87,
       "irancell": 80,
-      "fixed": 79,
+      "fixed": 80,
       "rightel": 100
+    }
+  },
+  {
+    "host": "webhook.vingardium.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "latency": 12,
+    "operator": {
+      "mci": 85,
+      "irancell": 83,
+      "fixed": 81,
+      "rightel": null
+    }
+  },
+  {
+    "host": "server.nl-arvancloud.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "latency": 20,
+    "operator": {
+      "mci": 86,
+      "irancell": 77,
+      "fixed": 78,
+      "rightel": 75
     }
   },
   {
     "host": "abo-ali-sina.basalam.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 23,
+    "latency": 73,
     "operator": {
       "mci": 88,
       "irancell": 83,
-      "fixed": 83,
+      "fixed": 85,
       "rightel": null
     }
   },
@@ -234,8 +234,8 @@
     "latency": 14,
     "operator": {
       "mci": 92,
-      "irancell": 64,
-      "fixed": 80,
+      "irancell": 65,
+      "fixed": 81,
       "rightel": 100
     }
   }
