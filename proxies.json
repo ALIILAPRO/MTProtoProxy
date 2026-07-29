@@ -77,8 +77,8 @@
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
     "latency": 33,
     "operator": {
-      "mci": 88,
-      "irancell": 75,
+      "mci": 89,
+      "irancell": 76,
       "fixed": 80,
       "rightel": 67
     }
@@ -211,7 +211,7 @@
     "operator": {
       "mci": 93,
       "irancell": 67,
-      "fixed": 78,
+      "fixed": 79,
       "rightel": 100
     }
   },
@@ -223,7 +223,7 @@
     "operator": {
       "mci": 89,
       "irancell": 79,
-      "fixed": 80,
+      "fixed": 75,
       "rightel": null
     }
   }
