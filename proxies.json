@@ -8,7 +8,7 @@
       "mci": 91,
       "irancell": 87,
       "fixed": 88,
-      "rightel": 75
+      "rightel": 76
     }
   },
   {
@@ -20,7 +20,7 @@
       "mci": 96,
       "irancell": 94,
       "fixed": 94,
-      "rightel": 89
+      "rightel": 90
     }
   },
   {
@@ -44,7 +44,7 @@
       "mci": 88,
       "irancell": 86,
       "fixed": 83,
-      "rightel": 77
+      "rightel": 78
     }
   },
   {
@@ -56,7 +56,7 @@
       "mci": 89,
       "irancell": 89,
       "fixed": 91,
-      "rightel": 71
+      "rightel": 73
     }
   },
   {
@@ -80,7 +80,7 @@
       "mci": 89,
       "irancell": 77,
       "fixed": 80,
-      "rightel": 67
+      "rightel": 70
     }
   },
   {
@@ -92,7 +92,7 @@
       "mci": 91,
       "irancell": 75,
       "fixed": 80,
-      "rightel": 60
+      "rightel": 67
     }
   },
   {
@@ -104,7 +104,7 @@
       "mci": 93,
       "irancell": 80,
       "fixed": 88,
-      "rightel": 80
+      "rightel": 83
     }
   },
   {
@@ -116,7 +116,7 @@
       "mci": 94,
       "irancell": 81,
       "fixed": 80,
-      "rightel": 89
+      "rightel": 90
     }
   },
   {
@@ -128,7 +128,7 @@
       "mci": 89,
       "irancell": 80,
       "fixed": 81,
-      "rightel": 83
+      "rightel": 86
     }
   },
   {
@@ -137,10 +137,10 @@
     "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "latency": 44,
     "operator": {
-      "mci": 88,
+      "mci": 89,
       "irancell": 79,
       "fixed": 75,
-      "rightel": 88
+      "rightel": 89
     }
   },
   {
@@ -152,7 +152,7 @@
       "mci": 97,
       "irancell": 85,
       "fixed": 83,
-      "rightel": 67
+      "rightel": 75
     }
   },
   {
@@ -164,7 +164,7 @@
       "mci": 77,
       "irancell": 79,
       "fixed": 85,
-      "rightel": 67
+      "rightel": 75
     }
   },
   {
@@ -176,7 +176,7 @@
       "mci": 94,
       "irancell": 80,
       "fixed": 85,
-      "rightel": 75
+      "rightel": 80
     }
   },
   {
@@ -188,7 +188,7 @@
       "mci": 88,
       "irancell": 83,
       "fixed": 82,
-      "rightel": 71
+      "rightel": 75
     }
   },
   {
