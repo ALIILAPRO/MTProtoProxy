@@ -3,7 +3,7 @@
     "host": "sop.foodpatuy.ir",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sop.foodpatuy.ir&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 26,
+    "latency": 38,
     "operator": {
       "mci": 91,
       "irancell": 86,
@@ -144,27 +144,27 @@
     }
   },
   {
+    "host": "ftp.jinxandjack.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "latency": 19,
+    "operator": {
+      "mci": 97,
+      "irancell": 88,
+      "fixed": 79,
+      "rightel": 67
+    }
+  },
+  {
     "host": "icon.davazdah.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
     "latency": 15,
     "operator": {
       "mci": 89,
-      "irancell": 80,
+      "irancell": 77,
       "fixed": 70,
       "rightel": 83
-    }
-  },
-  {
-    "host": "ftp.jinxandjack.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 20,
-    "operator": {
-      "mci": 97,
-      "irancell": 87,
-      "fixed": 79,
-      "rightel": 67
     }
   },
   {
@@ -174,7 +174,7 @@
     "latency": 18,
     "operator": {
       "mci": 97,
-      "irancell": 82,
+      "irancell": 78,
       "fixed": 80,
       "rightel": 75
     }
@@ -186,7 +186,7 @@
     "latency": 7,
     "operator": {
       "mci": 86,
-      "irancell": 78,
+      "irancell": 75,
       "fixed": 82,
       "rightel": 75
     }
@@ -198,7 +198,7 @@
     "latency": 7,
     "operator": {
       "mci": 86,
-      "irancell": 83,
+      "irancell": 79,
       "fixed": 79,
       "rightel": 100
     }
@@ -210,7 +210,7 @@
     "latency": 14,
     "operator": {
       "mci": 84,
-      "irancell": 85,
+      "irancell": 82,
       "fixed": 87,
       "rightel": null
     }
@@ -234,7 +234,7 @@
     "latency": 6,
     "operator": {
       "mci": 94,
-      "irancell": 61,
+      "irancell": 63,
       "fixed": 79,
       "rightel": 100
     }
