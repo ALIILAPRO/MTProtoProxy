@@ -30,7 +30,7 @@
     "latency": 4,
     "operator": {
       "mci": 93,
-      "irancell": 93,
+      "irancell": 92,
       "fixed": 87,
       "rightel": 89
     }
@@ -99,7 +99,7 @@
     "host": "logs.jinxandjack.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 21,
+    "latency": 9,
     "operator": {
       "mci": 92,
       "irancell": 80,
@@ -123,7 +123,7 @@
     "host": "ftp.jinxandjack.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 14,
+    "latency": 10,
     "operator": {
       "mci": 89,
       "irancell": 82,
@@ -171,7 +171,7 @@
     "host": "bo9ss.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 12,
+    "latency": 7,
     "operator": {
       "mci": 87,
       "irancell": 82,
@@ -183,7 +183,7 @@
     "host": "webhook.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 12,
+    "latency": 7,
     "operator": {
       "mci": 94,
       "irancell": 78,
@@ -198,7 +198,7 @@
     "latency": 20,
     "operator": {
       "mci": 86,
-      "irancell": 80,
+      "irancell": 81,
       "fixed": 76,
       "rightel": null
     }
@@ -231,7 +231,7 @@
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
-    "latency": 14,
+    "latency": 26,
     "operator": {
       "mci": 92,
       "irancell": 66,
