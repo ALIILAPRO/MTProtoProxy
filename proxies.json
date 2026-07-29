@@ -79,7 +79,7 @@
     "operator": {
       "mci": 88,
       "irancell": 74,
-      "fixed": 79,
+      "fixed": 80,
       "rightel": 67
     }
   },
@@ -114,7 +114,7 @@
     "latency": 14,
     "operator": {
       "mci": 93,
-      "irancell": 78,
+      "irancell": 79,
       "fixed": 78,
       "rightel": 100
     }
@@ -198,21 +198,9 @@
     "latency": 0,
     "operator": {
       "mci": 87,
-      "irancell": 74,
+      "irancell": 71,
       "fixed": 79,
       "rightel": 75
-    }
-  },
-  {
-    "host": "sub.iran-tehran.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
-    "latency": 14,
-    "operator": {
-      "mci": 92,
-      "irancell": 68,
-      "fixed": 76,
-      "rightel": 100
     }
   },
   {
@@ -237,6 +225,18 @@
       "irancell": 80,
       "fixed": 86,
       "rightel": null
+    }
+  },
+  {
+    "host": "sub.iran-tehran.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
+    "latency": 14,
+    "operator": {
+      "mci": 92,
+      "irancell": 66,
+      "fixed": 76,
+      "rightel": 100
     }
   }
 ]
