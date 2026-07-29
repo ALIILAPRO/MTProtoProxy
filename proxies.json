@@ -31,7 +31,7 @@
     "operator": {
       "mci": 93,
       "irancell": 92,
-      "fixed": 87,
+      "fixed": 88,
       "rightel": 91
     }
   },
@@ -54,7 +54,7 @@
     "latency": 9,
     "operator": {
       "mci": 88,
-      "irancell": 91,
+      "irancell": 90,
       "fixed": 90,
       "rightel": 60
     }
@@ -195,7 +195,7 @@
     "host": "server.nl-arvancloud.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 8,
+    "latency": 0,
     "operator": {
       "mci": 87,
       "irancell": 74,
