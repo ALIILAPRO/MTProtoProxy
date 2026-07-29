@@ -51,7 +51,7 @@
     "host": "pathory.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 20,
+    "latency": 33,
     "operator": {
       "mci": 89,
       "irancell": 89,
@@ -123,7 +123,7 @@
     "host": "ftp.jinxandjack.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 9,
+    "latency": 17,
     "operator": {
       "mci": 89,
       "irancell": 80,
@@ -144,18 +144,6 @@
     }
   },
   {
-    "host": "ftp.jinxandjack.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 7,
-    "operator": {
-      "mci": 97,
-      "irancell": 85,
-      "fixed": 83,
-      "rightel": 75
-    }
-  },
-  {
     "host": "br8ta.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
@@ -168,10 +156,22 @@
     }
   },
   {
+    "host": "ftp.jinxandjack.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "latency": 7,
+    "operator": {
+      "mci": 97,
+      "irancell": 82,
+      "fixed": 83,
+      "rightel": 75
+    }
+  },
+  {
     "host": "webhook.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 6,
+    "latency": 16,
     "operator": {
       "mci": 94,
       "irancell": 80,
@@ -207,7 +207,7 @@
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
-    "latency": 7,
+    "latency": 6,
     "operator": {
       "mci": 93,
       "irancell": 68,
