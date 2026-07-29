@@ -3,7 +3,7 @@
     "host": "sop.foodpatuy.ir",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sop.foodpatuy.ir&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 38,
+    "latency": 7,
     "operator": {
       "mci": 91,
       "irancell": 86,
@@ -53,7 +53,7 @@
     "connect_url": "https://t.me/proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 4,
     "operator": {
-      "mci": 87,
+      "mci": 88,
       "irancell": 91,
       "fixed": 89,
       "rightel": 60
@@ -75,10 +75,10 @@
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 14,
+    "latency": 13,
     "operator": {
       "mci": 88,
-      "irancell": 72,
+      "irancell": 73,
       "fixed": 78,
       "rightel": 67
     }
@@ -87,7 +87,7 @@
     "host": "webhook.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 18,
+    "latency": 5,
     "operator": {
       "mci": 90,
       "irancell": 78,
@@ -102,7 +102,7 @@
     "latency": 3,
     "operator": {
       "mci": 91,
-      "irancell": 82,
+      "irancell": 83,
       "fixed": 85,
       "rightel": 75
     }
@@ -111,10 +111,10 @@
     "host": "app.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=app.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 21,
+    "latency": 25,
     "operator": {
       "mci": 95,
-      "irancell": 80,
+      "irancell": 81,
       "fixed": 81,
       "rightel": 100
     }
@@ -159,12 +159,36 @@
     "host": "ftp.jinxandjack.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 19,
+    "latency": 9,
     "operator": {
       "mci": 97,
       "irancell": 88,
       "fixed": 79,
       "rightel": 67
+    }
+  },
+  {
+    "host": "webhook.what-ever.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
+    "latency": 13,
+    "operator": {
+      "mci": 97,
+      "irancell": 80,
+      "fixed": 80,
+      "rightel": 75
+    }
+  },
+  {
+    "host": "server.nl-arvancloud.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "latency": 13,
+    "operator": {
+      "mci": 86,
+      "irancell": 77,
+      "fixed": 82,
+      "rightel": 75
     }
   },
   {
@@ -183,36 +207,12 @@
     "host": "webhook.vingardium.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 9,
+    "latency": 12,
     "operator": {
       "mci": 85,
       "irancell": 83,
       "fixed": 87,
       "rightel": null
-    }
-  },
-  {
-    "host": "webhook.what-ever.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 13,
-    "operator": {
-      "mci": 97,
-      "irancell": 79,
-      "fixed": 80,
-      "rightel": 75
-    }
-  },
-  {
-    "host": "server.nl-arvancloud.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 13,
-    "operator": {
-      "mci": 86,
-      "irancell": 76,
-      "fixed": 82,
-      "rightel": 75
     }
   },
   {
@@ -222,7 +222,7 @@
     "latency": 23,
     "operator": {
       "mci": 88,
-      "irancell": 82,
+      "irancell": 83,
       "fixed": 83,
       "rightel": null
     }
