@@ -30,7 +30,7 @@
     "latency": 10,
     "operator": {
       "mci": 93,
-      "irancell": 92,
+      "irancell": 91,
       "fixed": 86,
       "rightel": 90
     }
@@ -68,7 +68,7 @@
       "mci": 90,
       "irancell": 87,
       "fixed": 88,
-      "rightel": 93
+      "rightel": 87
     }
   },
   {
