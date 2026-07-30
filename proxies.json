@@ -78,7 +78,7 @@
     "latency": 14,
     "operator": {
       "mci": 90,
-      "irancell": 77,
+      "irancell": 78,
       "fixed": 81,
       "rightel": 70
     }
@@ -135,7 +135,7 @@
     "host": "ftp.jinxandjack.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 19,
+    "latency": 2,
     "operator": {
       "mci": 90,
       "irancell": 80,
@@ -149,7 +149,7 @@
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 15,
     "operator": {
-      "mci": 97,
+      "mci": 98,
       "irancell": 80,
       "fixed": 86,
       "rightel": 75
@@ -159,9 +159,9 @@
     "host": "br8ta.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 7,
+    "latency": 1,
     "operator": {
-      "mci": 78,
+      "mci": 79,
       "irancell": 77,
       "fixed": 83,
       "rightel": 80
@@ -171,7 +171,7 @@
     "host": "webhook.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 6,
+    "latency": 12,
     "operator": {
       "mci": 95,
       "irancell": 83,
@@ -197,7 +197,7 @@
     "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 9,
     "operator": {
-      "mci": 86,
+      "mci": 87,
       "irancell": 82,
       "fixed": 83,
       "rightel": 75
