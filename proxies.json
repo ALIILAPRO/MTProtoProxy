@@ -102,7 +102,7 @@
     "latency": 3,
     "operator": {
       "mci": 93,
-      "irancell": 81,
+      "irancell": 80,
       "fixed": 88,
       "rightel": 83
     }
@@ -135,7 +135,7 @@
     "host": "icon.davazdah.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 44,
+    "latency": 110,
     "operator": {
       "mci": 89,
       "irancell": 79,
@@ -186,7 +186,7 @@
     "latency": 7,
     "operator": {
       "mci": 88,
-      "irancell": 83,
+      "irancell": 81,
       "fixed": 82,
       "rightel": 75
     }
