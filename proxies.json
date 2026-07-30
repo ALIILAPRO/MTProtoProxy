@@ -44,7 +44,7 @@
       "mci": 88,
       "irancell": 87,
       "fixed": 83,
-      "rightel": 78
+      "rightel": 77
     }
   },
   {
@@ -56,7 +56,7 @@
       "mci": 89,
       "irancell": 89,
       "fixed": 90,
-      "rightel": 73
+      "rightel": 75
     }
   },
   {
@@ -68,7 +68,7 @@
       "mci": 90,
       "irancell": 87,
       "fixed": 88,
-      "rightel": 92
+      "rightel": 93
     }
   },
   {
@@ -116,7 +116,7 @@
       "mci": 94,
       "irancell": 80,
       "fixed": 81,
-      "rightel": 90
+      "rightel": 91
     }
   },
   {
@@ -161,7 +161,7 @@
     "connect_url": "https://t.me/proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 1,
     "operator": {
-      "mci": 77,
+      "mci": 78,
       "irancell": 77,
       "fixed": 85,
       "rightel": 80
@@ -185,7 +185,7 @@
     "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 7,
     "operator": {
-      "mci": 88,
+      "mci": 86,
       "irancell": 82,
       "fixed": 82,
       "rightel": 75
@@ -209,7 +209,7 @@
     "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 8,
     "operator": {
-      "mci": 87,
+      "mci": 88,
       "irancell": 81,
       "fixed": 75,
       "rightel": null
@@ -221,7 +221,7 @@
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "latency": 21,
     "operator": {
-      "mci": 89,
+      "mci": 90,
       "irancell": 81,
       "fixed": 72,
       "rightel": null
@@ -231,12 +231,12 @@
     "host": "sv2.just-money.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 21,
+    "latency": 31,
     "operator": {
       "mci": 100,
       "irancell": 100,
       "fixed": 0,
-      "rightel": null
+      "rightel": 100
     }
   }
 ]
