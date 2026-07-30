@@ -66,7 +66,7 @@
     "latency": 10,
     "operator": {
       "mci": 89,
-      "irancell": 88,
+      "irancell": 87,
       "fixed": 88,
       "rightel": 92
     }
@@ -150,7 +150,7 @@
     "latency": 7,
     "operator": {
       "mci": 77,
-      "irancell": 79,
+      "irancell": 77,
       "fixed": 85,
       "rightel": 75
     }
@@ -162,7 +162,7 @@
     "latency": 7,
     "operator": {
       "mci": 97,
-      "irancell": 82,
+      "irancell": 80,
       "fixed": 83,
       "rightel": 75
     }
@@ -231,7 +231,7 @@
     "host": "sv2.just-money.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 38,
+    "latency": 32,
     "operator": {
       "mci": 100,
       "irancell": 100,
