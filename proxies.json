@@ -180,18 +180,6 @@
     }
   },
   {
-    "host": "bo9ss.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 9,
-    "operator": {
-      "mci": 86,
-      "irancell": 82,
-      "fixed": 83,
-      "rightel": 75
-    }
-  },
-  {
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
@@ -201,6 +189,18 @@
       "irancell": 72,
       "fixed": 78,
       "rightel": 100
+    }
+  },
+  {
+    "host": "bo9ss.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "latency": 9,
+    "operator": {
+      "mci": 86,
+      "irancell": 82,
+      "fixed": 83,
+      "rightel": 75
     }
   },
   {
@@ -219,7 +219,7 @@
     "host": "abo-ali-sina.basalam.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 30,
+    "latency": 34,
     "operator": {
       "mci": 90,
       "irancell": 81,
