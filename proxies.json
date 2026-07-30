@@ -8,7 +8,7 @@
       "mci": 91,
       "irancell": 87,
       "fixed": 88,
-      "rightel": 75
+      "rightel": 76
     }
   },
   {
@@ -39,7 +39,7 @@
     "host": "lux.lavazemi1.co.uk",
     "port": 2096,
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "latency": 14,
+    "latency": 21,
     "operator": {
       "mci": 88,
       "irancell": 87,
@@ -63,7 +63,7 @@
     "host": "sorfezh.malfilk-voq.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sorfezh.malfilk-voq.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 15,
+    "latency": 1,
     "operator": {
       "mci": 89,
       "irancell": 88,
