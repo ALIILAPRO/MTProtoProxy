@@ -51,11 +51,11 @@
     "host": "pathory.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 9,
+    "latency": 28,
     "operator": {
       "mci": 90,
-      "irancell": 88,
-      "fixed": 88,
+      "irancell": 89,
+      "fixed": 89,
       "rightel": 75
     }
   },
@@ -101,7 +101,7 @@
     "connect_url": "https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
     "latency": 19,
     "operator": {
-      "mci": 93,
+      "mci": 92,
       "irancell": 81,
       "fixed": 89,
       "rightel": 83
@@ -113,7 +113,7 @@
     "connect_url": "https://t.me/proxy?server=app.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 17,
     "operator": {
-      "mci": 94,
+      "mci": 92,
       "irancell": 77,
       "fixed": 83,
       "rightel": 92
@@ -135,7 +135,7 @@
     "host": "ftp.jinxandjack.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 2,
+    "latency": 15,
     "operator": {
       "mci": 90,
       "irancell": 80,
@@ -171,7 +171,7 @@
     "host": "webhook.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 12,
+    "latency": 13,
     "operator": {
       "mci": 95,
       "irancell": 83,
@@ -195,7 +195,7 @@
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
-    "latency": 26,
+    "latency": 0,
     "operator": {
       "mci": 93,
       "irancell": 73,
@@ -207,7 +207,7 @@
     "host": "bo9ss.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 8,
+    "latency": 7,
     "operator": {
       "mci": 87,
       "irancell": 82,
