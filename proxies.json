@@ -51,7 +51,7 @@
     "host": "pathory.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 33,
+    "latency": 31,
     "operator": {
       "mci": 89,
       "irancell": 89,
