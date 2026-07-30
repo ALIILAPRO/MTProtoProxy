@@ -6,7 +6,7 @@
     "latency": 26,
     "operator": {
       "mci": 91,
-      "irancell": 88,
+      "irancell": 87,
       "fixed": 88,
       "rightel": 75
     }
@@ -19,7 +19,7 @@
     "operator": {
       "mci": 96,
       "irancell": 94,
-      "fixed": 94,
+      "fixed": 93,
       "rightel": 90
     }
   },
@@ -42,8 +42,8 @@
     "latency": 14,
     "operator": {
       "mci": 88,
-      "irancell": 86,
-      "fixed": 83,
+      "irancell": 87,
+      "fixed": 82,
       "rightel": 78
     }
   },
@@ -55,7 +55,7 @@
     "operator": {
       "mci": 89,
       "irancell": 89,
-      "fixed": 91,
+      "fixed": 90,
       "rightel": 73
     }
   },
@@ -102,7 +102,7 @@
     "latency": 19,
     "operator": {
       "mci": 93,
-      "irancell": 80,
+      "irancell": 81,
       "fixed": 88,
       "rightel": 83
     }
@@ -126,7 +126,7 @@
     "latency": 17,
     "operator": {
       "mci": 89,
-      "irancell": 81,
+      "irancell": 82,
       "fixed": 81,
       "rightel": 86
     }
@@ -150,7 +150,7 @@
     "latency": 18,
     "operator": {
       "mci": 97,
-      "irancell": 81,
+      "irancell": 82,
       "fixed": 84,
       "rightel": 75
     }
@@ -174,7 +174,7 @@
     "latency": 14,
     "operator": {
       "mci": 94,
-      "irancell": 81,
+      "irancell": 82,
       "fixed": 85,
       "rightel": 80
     }
@@ -199,7 +199,7 @@
     "operator": {
       "mci": 87,
       "irancell": 83,
-      "fixed": 79,
+      "fixed": 75,
       "rightel": null
     }
   },
@@ -210,8 +210,8 @@
     "latency": 25,
     "operator": {
       "mci": 93,
-      "irancell": 70,
-      "fixed": 80,
+      "irancell": 71,
+      "fixed": 76,
       "rightel": 100
     }
   },
@@ -223,7 +223,7 @@
     "operator": {
       "mci": 89,
       "irancell": 80,
-      "fixed": 76,
+      "fixed": 72,
       "rightel": null
     }
   },
@@ -231,11 +231,11 @@
     "host": "sv2.just-money.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 33,
+    "latency": 21,
     "operator": {
       "mci": 100,
       "irancell": 100,
-      "fixed": null,
+      "fixed": 0,
       "rightel": null
     }
   }
