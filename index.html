@@ -1,72 +1,436 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="en" dir="ltr" class="dark">
 <head>
-  <meta charset="UTF-8">
-  <title>Free MTProto Proxies - ALIILAPRO</title>
-  <meta name="keywords" content="programmer, developer, aliilapro, coder, proxy, mtproto, telegram, tg">
-  <meta name="description" content="Get daily and high-speed MTProto proxy for Telegram.">
-  <meta property="og:title" content="Free MTProto Proxies">
-  <meta property="og:type" content="website">
-  <meta property="og:description" content="Get daily and high-speed MTProto proxy for Telegram.">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <!-- <link rel="icon" type="image/x-icon" href="favicon.ico"> -->
-  <link rel="stylesheet" href="styles.css">
-  <title>Free MTProto Proxies</title>
-</head>
-
-<body>
-  <div class="topnav">
-    <a class="active" href="#home">Home</a>
-    <a href="https://t.me/telemtprotoproxy">Telegram Channel</a>
-    <a href="https://github.com/ALIILAPRO/MTProtoProxy">Github repo</a>
-    <a href="https://github.com/ALIILAPRO/v2rayNG-Config">v2rayNG-Config</a>
-  </div>
-  <h1>Free MTProto Proxies</h1>
-  <p>Get daily and high-speed MTProto proxy for Telegram</p>
-  <table id="proxy-table">
-    <tr>
-      <th>Number</th>
-      <th>Proxy</th>
-    </tr>
-  </table>
-  <script>
-    fetch('mtproto.txt')
-      .then((response) => response.text())
-      .then((text) => {
-        const table = document.getElementById('proxy-table');
-        const lines = text.split('\n');
-        lines.forEach((proxyLink, index) => {
-          if (!proxyLink.trim()) return;
-
-          const row = table.insertRow();
-          const countCell = row.insertCell();
-          const linkCell = row.insertCell();
-
-          countCell.innerText = index + 1;
-          linkCell.innerHTML = `<div class="link-preview" data-link="${proxyLink}">${proxyLink}</div>`;
-        });
-
-        document.querySelectorAll('.link-preview').forEach((linkPreview) => {
-          linkPreview.addEventListener('click', () => {
-            const linkToCopy = linkPreview.getAttribute('data-link');
-            copyToClipboard(linkToCopy);
-          });
-        });
-
-        function copyToClipboard(text) {
-          const textarea = document.createElement('textarea');
-          textarea.value = text;
-          document.body.appendChild(textarea);
-          textarea.select();
-          document.execCommand('copy');
-          document.body.removeChild(textarea);
-          alert(`Copied to clipboard: ${text}`);
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ALIILAPRO — MTProto Premium Proxy</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Vazirmatn:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'Vazirmatn', 'system-ui', 'sans-serif'],
+                    },
+                    colors: {
+                        darkBg: '#08080c',
+                        cardBg: '#0e0e14',
+                    }
+                }
+            }
         }
-      }).catch((error) => console.error(error));
-  </script>
-</body>
+    </script>
 
+    <style>
+        body {
+            font-family: 'Inter', 'Vazirmatn', system-ui, -apple-system, sans-serif;
+            background-color: #08080c;
+        }
+
+        ::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #08080c;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #1e293b;
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #10b981;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(6px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-fade-in {
+            animation: fadeIn 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        }
+
+        .proxy-card {
+            background: rgba(14, 14, 20, 0.75);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        }
+        .proxy-card:hover {
+            border-color: rgba(16, 185, 129, 0.35);
+            transform: translateY(-3px);
+            box-shadow: 0 16px 40px -10px rgba(0, 0, 0, 0.8), 0 0 25px rgba(16, 185, 129, 0.08);
+        }
+
+        .sort-select {
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%2310b981' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 14px center;
+        }
+        [dir="rtl"] .sort-select {
+            background-position: left 14px center;
+        }
+        .sort-select option {
+            background: #0e0e14;
+            color: #e2e8f0;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col text-slate-300 antialiased selection:bg-emerald-500 selection:text-black">
+
+    <header class="sticky top-0 z-30 flex flex-wrap items-center justify-between gap-4 border-b border-white/5 bg-[#08080c]/85 px-4 py-3.5 backdrop-blur-md sm:px-8">
+        <div class="flex items-center gap-3">
+            <div class="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-emerald-500 to-cyan-500 text-black shadow-lg shadow-emerald-500/20">
+                <i class="fas fa-shield-halved text-lg"></i>
+            </div>
+            <div>
+                <span class="text-base font-bold tracking-tight text-white sm:text-lg">
+                    ALIILAPRO <span class="font-light text-emerald-400/80">MTProto</span>
+                </span>
+                <span class="block text-[10px] uppercase tracking-wider text-slate-500">Telegram Proxies v 0.0.2 Beta</span>
+            </div>
+        </div>
+
+        <nav class="hidden sm:flex items-center gap-2">
+            <a href="https://t.me/telemtprotoproxy" target="_blank" class="flex items-center gap-1.5 rounded-lg border border-white/5 bg-white/[0.03] px-3 py-1.5 text-xs font-medium text-slate-300 transition hover:border-emerald-500/30 hover:bg-emerald-500/10 hover:text-emerald-400">
+                <i class="fab fa-telegram-plane text-emerald-400"></i> Telegram
+            </a>
+            <a href="https://github.com/ALIILAPRO/MTProtoProxy" target="_blank" class="flex items-center gap-1.5 rounded-lg border border-white/5 bg-white/[0.03] px-3 py-1.5 text-xs font-medium text-slate-300 transition hover:border-emerald-500/30 hover:bg-emerald-500/10 hover:text-emerald-400">
+                <i class="fab fa-github text-emerald-400"></i> GitHub
+            </a>
+            <a href="https://aliilapro.ir" target="_blank" class="flex items-center gap-1.5 rounded-lg border border-white/5 bg-white/[0.03] px-3 py-1.5 text-xs font-medium text-slate-300 transition hover:border-emerald-500/30 hover:bg-emerald-500/10 hover:text-emerald-400">
+                <i class="fas fa-globe text-emerald-400"></i> Website
+            </a>
+        </nav>
+
+        <div class="flex items-center gap-2.5">
+            <button id="langToggle" class="flex items-center gap-1.5 rounded-xl border border-white/10 bg-white/5 px-3 py-1.5 text-xs font-semibold text-slate-300 transition hover:border-emerald-500/40 hover:bg-white/10">
+                <i class="fas fa-language text-emerald-400 text-sm"></i>
+                <span id="langLabel">FA</span>
+            </button>
+        </div>
+    </header>
+
+    <main class="mx-auto flex w-full max-w-7xl flex-1 flex-col px-4 pt-6 pb-12 sm:px-6 lg:px-8">
+        <div class="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+            <div class="relative flex-1 max-w-md">
+                <i class="fas fa-search absolute start-3.5 top-1/2 -translate-y-1/2 text-slate-500 text-sm"></i>
+                <input 
+                    type="text" 
+                    id="search" 
+                    placeholder="Search hostname or IP..." 
+                    class="w-full rounded-xl border border-white/10 bg-white/5 py-2.5 pe-4 ps-10 text-sm text-slate-200 outline-none transition placeholder:text-slate-500 focus:border-emerald-500/60 focus:bg-white/[0.07] focus:shadow-[0_0_20px_rgba(16,185,129,0.08)]" 
+                />
+            </div>
+
+            <div class="relative w-full sm:w-60">
+                <select id="sort" class="sort-select w-full rounded-xl border border-white/10 bg-white/5 py-2.5 pe-10 ps-3.5 text-sm font-medium text-slate-200 outline-none transition focus:border-emerald-500/60 cursor-pointer">
+                    <option value="none">Sort by: Default</option>
+                    <option value="latency">⚡ Latency (Lowest)</option>
+                    <option value="mci">📱 MCI (Highest %)</option>
+                    <option value="irancell">🟣 Irancell (Highest %)</option>
+                    <option value="fixed">🌐 Fixed (Highest %)</option>
+                    <option value="rightel">🔴 Rightel (Highest %)</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="proxy-container" class="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            <div class="col-span-full flex flex-col items-center justify-center py-24 text-center">
+                <i class="fas fa-circle-notch fa-spin text-3xl text-emerald-500"></i>
+                <p class="mt-3 text-sm font-medium text-slate-400" id="loadingText">Fetching proxies...</p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="mt-auto border-t border-white/5 bg-[#050508] py-6 text-center text-xs text-slate-500">
+        <div class="flex items-center justify-center gap-2">
+            <span>© 2026 ALIILAPRO</span>
+            <span class="h-1 w-1 rounded-full bg-slate-600"></span>
+            <span class="text-slate-400">High-Performance MTProto Proxies</span>
+        </div>
+    </footer>
+
+    <div id="toast" class="fixed bottom-6 start-1/2 z-50 flex -translate-x-1/2 translate-y-12 items-center gap-2.5 rounded-xl border border-emerald-500/30 bg-[#0e0e14]/95 px-4 py-2.5 text-sm font-medium text-white shadow-2xl shadow-emerald-950/50 backdrop-blur-md transition-all duration-300 opacity-0 pointer-events-none">
+        <i class="fas fa-circle-check text-emerald-400"></i>
+        <span id="toast-msg">Copied to clipboard!</span>
+    </div>
+
+    <script>
+        let proxies = [];
+        let currentLang = 'en';
+
+        const i18n = {
+            en: {
+                searchPlaceholder: 'Search hostname or IP...',
+                sortDefault: 'Sort by: Default',
+                sortLatency: '⚡ Latency (Lowest)',
+                sortMci: '📱 MCI (Highest %)',
+                sortIrancell: '🟣 Irancell (Highest %)',
+                sortFixed: '🌐 Fixed (Highest %)',
+                sortRightel: '🔴 Rightel (Highest %)',
+                noProxy: 'No proxies matched your search',
+                latency: 'Ping',
+                copy: 'Copy Link',
+                connect: 'Connect',
+                copied: 'Copied to clipboard!',
+                loading: 'Fetching proxies...',
+                operatorLabels: {
+                    mci: 'MCI',
+                    irancell: 'Irancell',
+                    fixed: 'Fixed',
+                    rightel: 'Rightel'
+                }
+            },
+            fa: {
+                searchPlaceholder: 'جستجوی هاست یا آدرس...',
+                sortDefault: 'مرتب‌سازی: پیش‌فرض',
+                sortLatency: '⚡ تاخیر پینگ (کمترین)',
+                sortMci: '📱 همراه اول (بیشترین %)',
+                sortIrancell: '🟣 ایرانسل (بیشترین %)',
+                sortFixed: '🌐 اینترنت ثابت (بیشترین %)',
+                sortRightel: '🔴 رایتل (بیشترین %)',
+                noProxy: 'هیچ پروکسی‌ای یافت نشد',
+                latency: 'پینگ',
+                copy: 'کپی لینک',
+                connect: 'اتصال',
+                copied: 'لینک پروکسی کپی شد!',
+                loading: 'در حال دریافت پروکسی‌ها...',
+                operatorLabels: {
+                    mci: 'همراه اول',
+                    irancell: 'ایرانسل',
+                    fixed: 'اینترنت ثابت',
+                    rightel: 'رایتل'
+                }
+            }
+        };
+
+        const container = document.getElementById('proxy-container');
+        const searchInput = document.getElementById('search');
+        const sortSelect = document.getElementById('sort');
+        const toastEl = document.getElementById('toast');
+        const toastMsg = document.getElementById('toast-msg');
+        const langToggle = document.getElementById('langToggle');
+        const langLabel = document.getElementById('langLabel');
+        let toastTimer = null;
+
+        function getLatencyBadge(ms) {
+            if (ms <= 30) return { bg: 'bg-emerald-500/10 text-emerald-400 border-emerald-500/20', label: ms + ' ms' };
+            if (ms <= 65) return { bg: 'bg-amber-500/10 text-amber-400 border-amber-500/20', label: ms + ' ms' };
+            return { bg: 'bg-rose-500/10 text-rose-400 border-rose-500/20', label: ms + ' ms' };
+        }
+
+        function getOperatorColor(key) {
+            const map = {
+                mci: '#f59e0b',      
+                irancell: '#8b5cf6', 
+                fixed: '#3b82f6',    
+                rightel: '#ef4444'  
+            };
+            return map[key] || '#10b981';
+        }
+
+        function t(key, fallback = '') {
+            const dict = i18n[currentLang] || i18n.en;
+            return key.split('.').reduce((o, i) => o?.[i], dict) || fallback || key;
+        }
+
+        function showToast(text) {
+            toastMsg.textContent = text;
+            toastEl.classList.remove('opacity-0', 'translate-y-12');
+            toastEl.classList.add('opacity-100', 'translate-y-0');
+            clearTimeout(toastTimer);
+            toastTimer = setTimeout(() => {
+                toastEl.classList.add('opacity-0', 'translate-y-12');
+                toastEl.classList.remove('opacity-100', 'translate-y-0');
+            }, 2500);
+        }
+
+        function copyLink(url) {
+            if (navigator.clipboard?.writeText) {
+                navigator.clipboard.writeText(url).then(() => showToast(t('copied'))).catch(() => fallbackCopy(url));
+            } else {
+                fallbackCopy(url);
+            }
+        }
+
+        function fallbackCopy(text) {
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            ta.style.position = 'fixed';
+            ta.style.opacity = '0';
+            document.body.appendChild(ta);
+            ta.select();
+            try {
+                document.execCommand('copy');
+                showToast(t('copied'));
+            } catch (_) {}
+            document.body.removeChild(ta);
+        }
+
+        function render() {
+            const query = searchInput.value.toLowerCase().trim();
+            const sortKey = sortSelect.value;
+
+            let filtered = proxies.filter(p =>
+                (p.host || '').toLowerCase().includes(query) || 
+                (p.port && p.port.toString().includes(query))
+            );
+
+            if (sortKey === 'latency') {
+                filtered.sort((a, b) => (a.latency || 0) - (b.latency || 0));
+            } else if (sortKey !== 'none') {
+                filtered.sort((a, b) => {
+                    const opsA = a.operator || a.operators || {};
+                    const opsB = b.operator || b.operators || {};
+                    return (opsB[sortKey] ?? 0) - (opsA[sortKey] ?? 0);
+                });
+            }
+
+            if (filtered.length === 0) {
+                container.innerHTML = `
+                    <div class="col-span-full flex flex-col items-center justify-center py-20 text-center text-slate-500">
+                        <div class="flex h-16 w-16 items-center justify-center rounded-2xl bg-white/5 mb-4">
+                            <i class="fas fa-satellite-dish text-2xl text-slate-400"></i>
+                        </div>
+                        <span class="text-sm font-medium">${t('noProxy')}</span>
+                    </div>
+                `;
+                return;
+            }
+
+            container.innerHTML = '';
+
+            filtered.forEach(proxy => {
+                const ops = proxy.operator || proxy.operators || {};
+                const opKeys = Object.keys(ops);
+                const secretEncoded = encodeURIComponent(proxy.secret || '');
+                const tgLink = `tg://proxy?server=${proxy.host}&port=${proxy.port}&secret=${secretEncoded}`;
+                const pingBadge = getLatencyBadge(proxy.latency || 0);
+
+                const card = document.createElement('div');
+                card.className = 'proxy-card animate-fade-in rounded-2xl p-5 flex flex-col justify-between gap-4';
+
+                let opsHTML = '';
+                if (opKeys.length > 0) {
+                    for (const key of opKeys) {
+                        const val = ops[key] ?? 0;
+                        const label = t('operatorLabels.' + key, key.toUpperCase());
+                        const color = getOperatorColor(key);
+                        opsHTML += `
+                            <div class="space-y-1">
+                                <div class="flex items-center justify-between text-[11px] font-medium text-slate-400">
+                                    <span class="flex items-center gap-1.5 uppercase tracking-wide">
+                                        <span class="h-1.5 w-1.5 rounded-full" style="background-color:${color}"></span>
+                                        ${label}
+                                    </span>
+                                    <span class="font-semibold text-slate-300">${val}%</span>
+                                </div>
+                                <div class="h-1.5 w-full rounded-full bg-white/[0.04] overflow-hidden">
+                                    <div class="h-full rounded-full transition-all duration-500" style="width:${val}%; background-color:${color};"></div>
+                                </div>
+                            </div>
+                        `;
+                    }
+                } else {
+                    opsHTML = `<div class="text-xs text-slate-500 py-2">No operator telemetry available</div>`;
+                }
+
+                card.innerHTML = `
+                    <div>
+                        <!-- Header / Host -->
+                        <div class="flex items-start justify-between gap-2">
+                            <div class="flex items-center gap-2 overflow-hidden">
+                                <i class="fas fa-server text-emerald-400/80 text-sm shrink-0"></i>
+                                <span class="text-sm font-semibold text-white truncate" title="${proxy.host}">
+                                    ${proxy.host}:${proxy.port}
+                                </span>
+                            </div>
+                            <span class="inline-flex shrink-0 items-center gap-1 rounded-full border px-2 py-0.5 text-[11px] font-medium ${pingBadge.bg}">
+                                <i class="fas fa-signal text-[9px]"></i>
+                                ${pingBadge.label}
+                            </span>
+                        </div>
+
+                        <!-- Progress Bars -->
+                        <div class="mt-4 space-y-2.5">
+                            ${opsHTML}
+                        </div>
+                    </div>
+
+                    <!-- Actions -->
+                    <div class="flex items-center gap-2 pt-2">
+                        <button class="btn-connect flex-1 rounded-xl bg-gradient-to-r from-emerald-500 to-emerald-600 px-3 py-2 text-xs font-semibold text-black transition hover:brightness-110 active:scale-[0.98] flex items-center justify-center gap-1.5 shadow-lg shadow-emerald-500/10">
+                            <i class="fas fa-bolt"></i>
+                            <span>${t('connect')}</span>
+                        </button>
+                        <button class="btn-copy rounded-xl border border-white/10 bg-white/5 px-3.5 py-2 text-xs font-semibold text-slate-300 transition hover:bg-white/10 active:scale-[0.98]" title="${t('copy')}">
+                            <i class="fas fa-copy"></i>
+                        </button>
+                    </div>
+                `;
+
+                card.querySelector('.btn-connect').addEventListener('click', () => {
+                    window.location.href = tgLink;
+                });
+                card.querySelector('.btn-copy').addEventListener('click', () => {
+                    copyLink(tgLink);
+                });
+
+                container.appendChild(card);
+            });
+        }
+
+        function updateLanguage() {
+            document.documentElement.lang = currentLang;
+            document.documentElement.dir = currentLang === 'fa' ? 'rtl' : 'ltr';
+
+            searchInput.placeholder = t('searchPlaceholder');
+
+            const options = sortSelect.options;
+            options[0].text = t('sortDefault');
+            options[1].text = t('sortLatency');
+            options[2].text = t('sortMci');
+            options[3].text = t('sortIrancell');
+            options[4].text = t('sortFixed');
+            options[5].text = t('sortRightel');
+
+            langLabel.textContent = currentLang === 'en' ? 'FA' : 'EN';
+            render();
+        }
+
+        function toggleLanguage() {
+            currentLang = currentLang === 'en' ? 'fa' : 'en';
+            updateLanguage();
+        }
+
+        function loadData() {
+            const url = 'https://raw.githubusercontent.com/ALIILAPRO/MTProtoProxy/main/proxies.json';
+            fetch(url)
+                .then(res => {
+                    if (!res.ok) throw new Error('HTTP ' + res.status);
+                    return res.json();
+                })
+                .then(data => {
+                    proxies = Array.isArray(data) ? data : [];
+                    render();
+                })
+                .catch(err => {
+                    console.error('Failed loading proxy list:', err);
+                    proxies = [];
+                    render();
+                });
+        }
+
+        searchInput.addEventListener('input', render);
+        sortSelect.addEventListener('change', render);
+        langToggle.addEventListener('click', toggleLanguage);
+        loadData();
+    </script>
+</body>
 </html>
