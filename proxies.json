@@ -42,7 +42,7 @@
     "latency": 21,
     "operator": {
       "mci": 88,
-      "irancell": 86,
+      "irancell": 87,
       "fixed": 83,
       "rightel": 78
     }
@@ -89,7 +89,7 @@
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 15,
     "operator": {
-      "mci": 91,
+      "mci": 92,
       "irancell": 75,
       "fixed": 80,
       "rightel": 67
@@ -219,7 +219,7 @@
     "host": "abo-ali-sina.basalam.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 4,
+    "latency": 21,
     "operator": {
       "mci": 89,
       "irancell": 81,
