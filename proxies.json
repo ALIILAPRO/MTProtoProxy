@@ -3,11 +3,11 @@
     "host": "sop.foodpatuy.ir",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sop.foodpatuy.ir&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 36,
+    "latency": 53,
     "operator": {
       "mci": 91,
       "irancell": 87,
-      "fixed": 87,
+      "fixed": 88,
       "rightel": 76
     }
   },
@@ -63,7 +63,7 @@
     "host": "sorfezh.malfilk-voq.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sorfezh.malfilk-voq.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 1,
+    "latency": 6,
     "operator": {
       "mci": 90,
       "irancell": 87,
@@ -75,7 +75,7 @@
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 12,
+    "latency": 32,
     "operator": {
       "mci": 89,
       "irancell": 77,
