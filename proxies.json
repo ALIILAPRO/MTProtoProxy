@@ -113,7 +113,7 @@
     "connect_url": "https://t.me/proxy?server=app.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 9,
     "operator": {
-      "mci": 93,
+      "mci": 94,
       "irancell": 77,
       "fixed": 83,
       "rightel": 92
@@ -243,7 +243,7 @@
     "host": "sv2.just-money.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 33,
+    "latency": 30,
     "operator": {
       "mci": 100,
       "irancell": 100,
