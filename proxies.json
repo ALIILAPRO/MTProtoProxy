@@ -6,7 +6,7 @@
     "latency": 26,
     "operator": {
       "mci": 91,
-      "irancell": 87,
+      "irancell": 88,
       "fixed": 88,
       "rightel": 75
     }
@@ -51,7 +51,7 @@
     "host": "pathory.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 31,
+    "latency": 3,
     "operator": {
       "mci": 89,
       "irancell": 89,
@@ -78,7 +78,7 @@
     "latency": 32,
     "operator": {
       "mci": 89,
-      "irancell": 77,
+      "irancell": 78,
       "fixed": 80,
       "rightel": 70
     }
@@ -114,7 +114,7 @@
     "latency": 12,
     "operator": {
       "mci": 94,
-      "irancell": 81,
+      "irancell": 82,
       "fixed": 80,
       "rightel": 90
     }
@@ -138,7 +138,7 @@
     "latency": 58,
     "operator": {
       "mci": 89,
-      "irancell": 80,
+      "irancell": 81,
       "fixed": 75,
       "rightel": 89
     }
@@ -198,7 +198,7 @@
     "latency": 23,
     "operator": {
       "mci": 87,
-      "irancell": 82,
+      "irancell": 83,
       "fixed": 79,
       "rightel": null
     }
