@@ -90,7 +90,7 @@
     "latency": 7,
     "operator": {
       "mci": 92,
-      "irancell": 76,
+      "irancell": 77,
       "fixed": 78,
       "rightel": 71
     }
@@ -114,7 +114,7 @@
     "latency": 25,
     "operator": {
       "mci": 93,
-      "irancell": 77,
+      "irancell": 78,
       "fixed": 85,
       "rightel": 92
     }
@@ -150,7 +150,7 @@
     "latency": 13,
     "operator": {
       "mci": 98,
-      "irancell": 80,
+      "irancell": 81,
       "fixed": 87,
       "rightel": 75
     }
@@ -161,7 +161,7 @@
     "connect_url": "https://t.me/proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 8,
     "operator": {
-      "mci": 79,
+      "mci": 80,
       "irancell": 78,
       "fixed": 81,
       "rightel": 80
@@ -174,7 +174,7 @@
     "latency": 19,
     "operator": {
       "mci": 95,
-      "irancell": 83,
+      "irancell": 84,
       "fixed": 86,
       "rightel": 80
     }
@@ -186,7 +186,7 @@
     "latency": 7,
     "operator": {
       "mci": 93,
-      "irancell": 75,
+      "irancell": 76,
       "fixed": 79,
       "rightel": 100
     }
@@ -198,7 +198,7 @@
     "latency": 1,
     "operator": {
       "mci": 88,
-      "irancell": 82,
+      "irancell": 83,
       "fixed": 84,
       "rightel": 75
     }
@@ -210,7 +210,7 @@
     "latency": 17,
     "operator": {
       "mci": 89,
-      "irancell": 78,
+      "irancell": 79,
       "fixed": 79,
       "rightel": null
     }
@@ -234,7 +234,7 @@
     "latency": 12,
     "operator": {
       "mci": 83,
-      "irancell": 70,
+      "irancell": 71,
       "fixed": 73,
       "rightel": 75
     }
@@ -243,7 +243,7 @@
     "host": "sv2.just-money.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 14,
+    "latency": 28,
     "operator": {
       "mci": 100,
       "irancell": 100,
