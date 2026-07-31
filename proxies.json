@@ -180,18 +180,6 @@
     }
   },
   {
-    "host": "bo9ss.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 13,
-    "operator": {
-      "mci": 87,
-      "irancell": 82,
-      "fixed": 84,
-      "rightel": 75
-    }
-  },
-  {
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
@@ -201,6 +189,18 @@
       "irancell": 74,
       "fixed": 79,
       "rightel": 100
+    }
+  },
+  {
+    "host": "bo9ss.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "latency": 13,
+    "operator": {
+      "mci": 87,
+      "irancell": 82,
+      "fixed": 84,
+      "rightel": 75
     }
   },
   {
@@ -234,7 +234,7 @@
     "latency": 7,
     "operator": {
       "mci": 83,
-      "irancell": 70,
+      "irancell": 71,
       "fixed": 73,
       "rightel": 75
     }
@@ -243,7 +243,7 @@
     "host": "sv2.just-money.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 21,
+    "latency": 14,
     "operator": {
       "mci": 100,
       "irancell": 100,
