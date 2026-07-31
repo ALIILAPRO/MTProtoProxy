@@ -8,7 +8,7 @@
       "mci": 91,
       "irancell": 88,
       "fixed": 87,
-      "rightel": 74
+      "rightel": 73
     }
   },
   {
@@ -20,7 +20,7 @@
       "mci": 96,
       "irancell": 94,
       "fixed": 94,
-      "rightel": 89
+      "rightel": 88
     }
   },
   {
@@ -32,7 +32,7 @@
       "mci": 93,
       "irancell": 91,
       "fixed": 86,
-      "rightel": 90
+      "rightel": 89
     }
   },
   {
@@ -42,9 +42,9 @@
     "latency": 26,
     "operator": {
       "mci": 88,
-      "irancell": 86,
+      "irancell": 87,
       "fixed": 83,
-      "rightel": 78
+      "rightel": 76
     }
   },
   {
@@ -162,7 +162,7 @@
     "latency": 13,
     "operator": {
       "mci": 79,
-      "irancell": 77,
+      "irancell": 78,
       "fixed": 83,
       "rightel": 80
     }
