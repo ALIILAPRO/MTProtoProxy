@@ -20,7 +20,7 @@
       "mci": 96,
       "irancell": 94,
       "fixed": 94,
-      "rightel": 88
+      "rightel": 89
     }
   },
   {
@@ -43,15 +43,15 @@
     "operator": {
       "mci": 88,
       "irancell": 87,
-      "fixed": 82,
-      "rightel": 76
+      "fixed": 83,
+      "rightel": 77
     }
   },
   {
     "host": "pathory.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 9,
+    "latency": 11,
     "operator": {
       "mci": 89,
       "irancell": 88,
@@ -67,7 +67,7 @@
     "operator": {
       "mci": 91,
       "irancell": 88,
-      "fixed": 88,
+      "fixed": 86,
       "rightel": 88
     }
   },
@@ -79,7 +79,7 @@
     "operator": {
       "mci": 90,
       "irancell": 78,
-      "fixed": 81,
+      "fixed": 82,
       "rightel": 73
     }
   },
@@ -103,7 +103,7 @@
     "operator": {
       "mci": 92,
       "irancell": 81,
-      "fixed": 90,
+      "fixed": 87,
       "rightel": 83
     }
   },
@@ -115,7 +115,7 @@
     "operator": {
       "mci": 93,
       "irancell": 77,
-      "fixed": 84,
+      "fixed": 85,
       "rightel": 92
     }
   },
@@ -139,7 +139,7 @@
     "operator": {
       "mci": 90,
       "irancell": 81,
-      "fixed": 82,
+      "fixed": 83,
       "rightel": 88
     }
   },
@@ -151,7 +151,7 @@
     "operator": {
       "mci": 98,
       "irancell": 80,
-      "fixed": 86,
+      "fixed": 87,
       "rightel": 75
     }
   },
@@ -163,7 +163,7 @@
     "operator": {
       "mci": 79,
       "irancell": 78,
-      "fixed": 83,
+      "fixed": 81,
       "rightel": 80
     }
   },
@@ -195,7 +195,7 @@
     "host": "bo9ss.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 13,
+    "latency": 1,
     "operator": {
       "mci": 88,
       "irancell": 82,
@@ -234,7 +234,7 @@
     "latency": 7,
     "operator": {
       "mci": 83,
-      "irancell": 71,
+      "irancell": 69,
       "fixed": 73,
       "rightel": 75
     }
