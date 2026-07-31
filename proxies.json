@@ -43,7 +43,7 @@
     "operator": {
       "mci": 88,
       "irancell": 87,
-      "fixed": 82,
+      "fixed": 81,
       "rightel": 77
     }
   },
@@ -54,7 +54,7 @@
     "latency": 10,
     "operator": {
       "mci": 89,
-      "irancell": 89,
+      "irancell": 88,
       "fixed": 88,
       "rightel": 76
     }
@@ -66,7 +66,7 @@
     "latency": 1,
     "operator": {
       "mci": 91,
-      "irancell": 88,
+      "irancell": 89,
       "fixed": 87,
       "rightel": 89
     }
@@ -78,7 +78,7 @@
     "latency": 14,
     "operator": {
       "mci": 90,
-      "irancell": 78,
+      "irancell": 79,
       "fixed": 82,
       "rightel": 73
     }
@@ -135,7 +135,7 @@
     "host": "icon.davazdah.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 21,
+    "latency": 78,
     "operator": {
       "mci": 90,
       "irancell": 84,
@@ -185,7 +185,7 @@
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
     "latency": 25,
     "operator": {
-      "mci": 93,
+      "mci": 94,
       "irancell": 76,
       "fixed": 79,
       "rightel": 100
@@ -231,7 +231,7 @@
     "host": "server.nl-arvancloud.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 12,
+    "latency": 7,
     "operator": {
       "mci": 83,
       "irancell": 71,
