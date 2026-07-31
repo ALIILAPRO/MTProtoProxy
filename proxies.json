@@ -27,7 +27,7 @@
     "host": "valla.chemidonam.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 8,
+    "latency": 21,
     "operator": {
       "mci": 93,
       "irancell": 91,
@@ -39,7 +39,7 @@
     "host": "lux.lavazemi1.co.uk",
     "port": 2096,
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "latency": 26,
+    "latency": 20,
     "operator": {
       "mci": 88,
       "irancell": 87,
