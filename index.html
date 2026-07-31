@@ -306,14 +306,25 @@
 
             container.innerHTML = '';
 
-            filtered.forEach(proxy => {
-                const ops = proxy.operator || proxy.operators || {};
-                const opKeys = Object.keys(ops);
-                const secretEncoded = encodeURIComponent(proxy.secret || '');
-                const tgLink = `tg://proxy?server=${proxy.host}&port=${proxy.port}&secret=${secretEncoded}`;
-                const pingBadge = getLatencyBadge(proxy.latency || 0);
+filtered.forEach(proxy => {
+    const ops = proxy.operator || proxy.operators || {};
+    const opKeys = Object.keys(ops);
+    
+    let secretEncoded = '';
+    if (proxy.connect_url) {
+        try {
+            const url = new URL(proxy.connect_url);
+            const secretRaw = url.searchParams.get('secret') || '';
+            secretEncoded = encodeURIComponent(secretRaw);
+        } catch (e) {
+            secretEncoded = '';
+        }
+    }
+    
+    const tgLink = `tg://proxy?server=${proxy.host}&port=${proxy.port}&secret=${secretEncoded}`;
+    const pingBadge = getLatencyBadge(proxy.latency || 0);
 
-                const card = document.createElement('div');
+    const card = document.createElement('div');
                 card.className = 'proxy-card animate-fade-in rounded-2xl p-5 flex flex-col justify-between gap-4';
 
                 let opsHTML = '';
