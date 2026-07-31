@@ -8,7 +8,7 @@
       "mci": 91,
       "irancell": 88,
       "fixed": 87,
-      "rightel": 73
+      "rightel": 74
     }
   },
   {
@@ -41,7 +41,7 @@
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
     "latency": 20,
     "operator": {
-      "mci": 88,
+      "mci": 89,
       "irancell": 87,
       "fixed": 82,
       "rightel": 76
@@ -113,7 +113,7 @@
     "connect_url": "https://t.me/proxy?server=app.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 3,
     "operator": {
-      "mci": 92,
+      "mci": 93,
       "irancell": 77,
       "fixed": 83,
       "rightel": 92
@@ -197,7 +197,7 @@
     "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 13,
     "operator": {
-      "mci": 87,
+      "mci": 88,
       "irancell": 82,
       "fixed": 84,
       "rightel": 75
@@ -221,7 +221,7 @@
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "latency": 28,
     "operator": {
-      "mci": 90,
+      "mci": 91,
       "irancell": 81,
       "fixed": 70,
       "rightel": null
