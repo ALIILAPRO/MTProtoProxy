@@ -27,7 +27,7 @@
     "host": "valla.chemidonam.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 10,
+    "latency": 5,
     "operator": {
       "mci": 93,
       "irancell": 91,
@@ -63,7 +63,7 @@
     "host": "sorfezh.malfilk-voq.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sorfezh.malfilk-voq.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 10,
+    "latency": 1,
     "operator": {
       "mci": 91,
       "irancell": 88,
@@ -223,7 +223,7 @@
     "operator": {
       "mci": 91,
       "irancell": 80,
-      "fixed": 70,
+      "fixed": 73,
       "rightel": null
     }
   },
