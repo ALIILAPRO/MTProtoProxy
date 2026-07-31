@@ -15,7 +15,7 @@
     "host": "204.168.208.130",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=204.168.208.130&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-    "latency": 26,
+    "latency": 25,
     "operator": {
       "mci": 96,
       "irancell": 94,
@@ -56,7 +56,7 @@
       "mci": 89,
       "irancell": 88,
       "fixed": 88,
-      "rightel": 75
+      "rightel": 76
     }
   },
   {
@@ -80,7 +80,7 @@
       "mci": 90,
       "irancell": 78,
       "fixed": 81,
-      "rightel": 70
+      "rightel": 73
     }
   },
   {
@@ -92,14 +92,14 @@
       "mci": 92,
       "irancell": 76,
       "fixed": 78,
-      "rightel": 67
+      "rightel": 71
     }
   },
   {
     "host": "logs.jinxandjack.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 8,
+    "latency": 16,
     "operator": {
       "mci": 92,
       "irancell": 81,
@@ -159,7 +159,7 @@
     "host": "br8ta.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=br8ta.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 13,
+    "latency": 8,
     "operator": {
       "mci": 79,
       "irancell": 78,
@@ -171,12 +171,24 @@
     "host": "webhook.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
-    "latency": 13,
+    "latency": 19,
     "operator": {
       "mci": 95,
       "irancell": 83,
       "fixed": 86,
       "rightel": 80
+    }
+  },
+  {
+    "host": "sub.iran-tehran.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
+    "latency": 7,
+    "operator": {
+      "mci": 93,
+      "irancell": 75,
+      "fixed": 79,
+      "rightel": 100
     }
   },
   {
@@ -189,18 +201,6 @@
       "irancell": 82,
       "fixed": 84,
       "rightel": 75
-    }
-  },
-  {
-    "host": "sub.iran-tehran.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=dd104462821249bd7ac519130220c25d09",
-    "latency": 14,
-    "operator": {
-      "mci": 93,
-      "irancell": 74,
-      "fixed": 79,
-      "rightel": 100
     }
   },
   {
