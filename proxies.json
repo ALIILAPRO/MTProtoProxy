@@ -55,7 +55,7 @@
     "operator": {
       "mci": 90,
       "irancell": 88,
-      "fixed": 87,
+      "fixed": 88,
       "rightel": 76
     }
   },
@@ -115,7 +115,7 @@
     "operator": {
       "mci": 93,
       "irancell": 80,
-      "fixed": 85,
+      "fixed": 86,
       "rightel": 93
     }
   },
@@ -139,7 +139,7 @@
     "operator": {
       "mci": 88,
       "irancell": 81,
-      "fixed": 74,
+      "fixed": 75,
       "rightel": 89
     }
   },
@@ -211,7 +211,7 @@
     "operator": {
       "mci": 91,
       "irancell": 80,
-      "fixed": 77,
+      "fixed": 78,
       "rightel": null
     }
   },
@@ -219,11 +219,11 @@
     "host": "abo-ali-sina.basalam.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 21,
+    "latency": 11,
     "operator": {
       "mci": 92,
       "irancell": 83,
-      "fixed": 75,
+      "fixed": 76,
       "rightel": null
     }
   },
@@ -235,7 +235,7 @@
     "operator": {
       "mci": 86,
       "irancell": 76,
-      "fixed": 75,
+      "fixed": 76,
       "rightel": 75
     }
   },
