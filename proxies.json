@@ -15,7 +15,7 @@
     "host": "valla.chemidonam.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 7,
+    "latency": 15,
     "operator": {
       "mci": 92,
       "irancell": 90,
@@ -27,7 +27,7 @@
     "host": "lux.lavazemi1.co.uk",
     "port": 2096,
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "latency": 14,
+    "latency": 15,
     "operator": {
       "mci": 88,
       "irancell": 88,
@@ -41,7 +41,7 @@
     "connect_url": "https://t.me/proxy?server=pathory.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "latency": 14,
     "operator": {
-      "mci": 90,
+      "mci": 89,
       "irancell": 86,
       "fixed": 82,
       "rightel": 72
@@ -51,9 +51,9 @@
     "host": "sorfezh.malfilk-voq.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sorfezh.malfilk-voq.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 7,
+    "latency": 4,
     "operator": {
-      "mci": 91,
+      "mci": 90,
       "irancell": 88,
       "fixed": 84,
       "rightel": 92
@@ -168,18 +168,6 @@
     }
   },
   {
-    "host": "webhook.vingardium.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 6,
-    "operator": {
-      "mci": 90,
-      "irancell": 82,
-      "fixed": 75,
-      "rightel": 100
-    }
-  },
-  {
     "host": "webhook.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
@@ -189,6 +177,18 @@
       "irancell": 83,
       "fixed": 81,
       "rightel": 67
+    }
+  },
+  {
+    "host": "webhook.vingardium.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "latency": 6,
+    "operator": {
+      "mci": 90,
+      "irancell": 82,
+      "fixed": 75,
+      "rightel": 100
     }
   },
   {
@@ -234,7 +234,7 @@
     "latency": 15,
     "operator": {
       "mci": 94,
-      "irancell": 89,
+      "irancell": 90,
       "fixed": 40,
       "rightel": 100
     }
