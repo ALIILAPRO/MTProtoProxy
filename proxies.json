@@ -7,7 +7,7 @@
     "operator": {
       "mci": 89,
       "irancell": 88,
-      "fixed": 86,
+      "fixed": 85,
       "rightel": 75
     }
   },
@@ -31,7 +31,7 @@
     "operator": {
       "mci": 88,
       "irancell": 88,
-      "fixed": 81,
+      "fixed": 82,
       "rightel": 77
     }
   },
@@ -43,8 +43,8 @@
     "operator": {
       "mci": 88,
       "irancell": 85,
-      "fixed": 80,
-      "rightel": 72
+      "fixed": 79,
+      "rightel": 74
     }
   },
   {
@@ -56,7 +56,7 @@
       "mci": 90,
       "irancell": 88,
       "fixed": 82,
-      "rightel": 92
+      "rightel": 90
     }
   },
   {
@@ -67,7 +67,7 @@
     "operator": {
       "mci": 90,
       "irancell": 79,
-      "fixed": 82,
+      "fixed": 81,
       "rightel": 75
     }
   },
@@ -78,7 +78,7 @@
     "latency": 51,
     "operator": {
       "mci": 92,
-      "irancell": 78,
+      "irancell": 79,
       "fixed": 73,
       "rightel": 71
     }
@@ -90,8 +90,8 @@
     "latency": 27,
     "operator": {
       "mci": 91,
-      "irancell": 85,
-      "fixed": 80,
+      "irancell": 86,
+      "fixed": 81,
       "rightel": 83
     }
   },
@@ -102,8 +102,8 @@
     "latency": 6,
     "operator": {
       "mci": 91,
-      "irancell": 78,
-      "fixed": 81,
+      "irancell": 79,
+      "fixed": 82,
       "rightel": 94
     }
   },
@@ -115,8 +115,8 @@
     "operator": {
       "mci": 89,
       "irancell": 84,
-      "fixed": 79,
-      "rightel": 90
+      "fixed": 80,
+      "rightel": 91
     }
   },
   {
@@ -126,8 +126,8 @@
     "latency": 26,
     "operator": {
       "mci": 94,
-      "irancell": 82,
-      "fixed": 80,
+      "irancell": 81,
+      "fixed": 78,
       "rightel": 100
     }
   },
@@ -138,8 +138,8 @@
     "latency": 12,
     "operator": {
       "mci": 97,
-      "irancell": 79,
-      "fixed": 76,
+      "irancell": 80,
+      "fixed": 77,
       "rightel": 60
     }
   },
@@ -151,7 +151,7 @@
     "operator": {
       "mci": 91,
       "irancell": 83,
-      "fixed": 79,
+      "fixed": 80,
       "rightel": 67
     }
   },
@@ -162,7 +162,7 @@
     "latency": 2,
     "operator": {
       "mci": 83,
-      "irancell": 76,
+      "irancell": 77,
       "fixed": 77,
       "rightel": 71
     }
@@ -175,31 +175,19 @@
     "operator": {
       "mci": 88,
       "irancell": 75,
-      "fixed": 70,
+      "fixed": 71,
       "rightel": 91
-    }
-  },
-  {
-    "host": "bo9ss.co.uk",
-    "port": 443,
-    "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "latency": 6,
-    "operator": {
-      "mci": 86,
-      "irancell": 81,
-      "fixed": 80,
-      "rightel": 70
     }
   },
   {
     "host": "abo-ali-sina.basalam.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 44,
+    "latency": 36,
     "operator": {
       "mci": 91,
       "irancell": 84,
-      "fixed": 69,
+      "fixed": 70,
       "rightel": 100
     }
   },
@@ -210,8 +198,8 @@
     "latency": 49,
     "operator": {
       "mci": 90,
-      "irancell": 79,
-      "fixed": 73,
+      "irancell": 80,
+      "fixed": 74,
       "rightel": 100
     }
   },
@@ -228,14 +216,26 @@
     }
   },
   {
+    "host": "bo9ss.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=bo9ss.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "latency": 6,
+    "operator": {
+      "mci": 86,
+      "irancell": 80,
+      "fixed": 77,
+      "rightel": 70
+    }
+  },
+  {
     "host": "sv2.just-money.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 27,
+    "latency": 51,
     "operator": {
-      "mci": 90,
-      "irancell": 82,
-      "fixed": 33,
+      "mci": 91,
+      "irancell": 85,
+      "fixed": 43,
       "rightel": 100
     }
   }
