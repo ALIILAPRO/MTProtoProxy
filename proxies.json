@@ -7,29 +7,29 @@
     "operator": {
       "mci": 89,
       "irancell": 88,
-      "fixed": 85,
-      "rightel": 75
+      "fixed": 86,
+      "rightel": 74
     }
   },
   {
     "host": "valla.chemidonam.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 9,
+    "latency": 14,
     "operator": {
       "mci": 92,
       "irancell": 90,
-      "fixed": 84,
-      "rightel": 88
+      "fixed": 85,
+      "rightel": 89
     }
   },
   {
     "host": "lux.lavazemi1.co.uk",
     "port": 2096,
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "latency": 24,
+    "latency": 14,
     "operator": {
-      "mci": 87,
+      "mci": 88,
       "irancell": 88,
       "fixed": 83,
       "rightel": 77
@@ -115,7 +115,7 @@
     "operator": {
       "mci": 89,
       "irancell": 83,
-      "fixed": 80,
+      "fixed": 81,
       "rightel": 91
     }
   },
