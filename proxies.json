@@ -66,7 +66,7 @@
     "latency": 12,
     "operator": {
       "mci": 84,
-      "irancell": 84,
+      "irancell": 83,
       "fixed": 78,
       "rightel": 81
     }
@@ -77,9 +77,9 @@
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 7,
     "operator": {
-      "mci": 92,
+      "mci": 91,
       "irancell": 78,
-      "fixed": 73,
+      "fixed": 74,
       "rightel": 63
     }
   },
@@ -113,9 +113,9 @@
     "connect_url": "https://t.me/proxy?server=logs.jinxandjack.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
     "latency": 31,
     "operator": {
-      "mci": 86,
-      "irancell": 79,
-      "fixed": 71,
+      "mci": 85,
+      "irancell": 78,
+      "fixed": 70,
       "rightel": 70
     }
   },
@@ -149,7 +149,7 @@
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D",
     "latency": 29,
     "operator": {
-      "mci": 91,
+      "mci": 90,
       "irancell": 83,
       "fixed": 80,
       "rightel": 75
@@ -198,9 +198,21 @@
     "latency": 21,
     "operator": {
       "mci": 84,
-      "irancell": 83,
+      "irancell": 79,
       "fixed": 64,
       "rightel": 80
+    }
+  },
+  {
+    "host": "download.lv426.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=download.lv426.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+    "latency": 4,
+    "operator": {
+      "mci": 100,
+      "irancell": 100,
+      "fixed": null,
+      "rightel": null
     }
   },
   {
@@ -219,7 +231,7 @@
     "host": "91.107.160.196",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=91.107.160.196&port=443&secret=104462821249bd7ac519130220c25d09",
-    "latency": 0,
+    "latency": 1,
     "operator": {
       "mci": 50,
       "irancell": 100,
