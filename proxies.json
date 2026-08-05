@@ -17,7 +17,7 @@
     "connect_url": "https://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
     "latency": 30,
     "operator": {
-      "mci": 89,
+      "mci": 88,
       "irancell": 87,
       "fixed": 78,
       "rightel": 82
@@ -29,7 +29,7 @@
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
     "latency": 20,
     "operator": {
-      "mci": 85,
+      "mci": 86,
       "irancell": 88,
       "fixed": 79,
       "rightel": 79
@@ -55,7 +55,7 @@
     "operator": {
       "mci": 87,
       "irancell": 78,
-      "fixed": 79,
+      "fixed": 78,
       "rightel": 73
     }
   },
@@ -78,7 +78,7 @@
     "latency": 7,
     "operator": {
       "mci": 90,
-      "irancell": 78,
+      "irancell": 79,
       "fixed": 74,
       "rightel": 67
     }
@@ -187,7 +187,7 @@
     "operator": {
       "mci": 91,
       "irancell": 81,
-      "fixed": 65,
+      "fixed": 66,
       "rightel": 67
     }
   },
@@ -195,7 +195,7 @@
     "host": "sv2.just-money.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 21,
+    "latency": 16,
     "operator": {
       "mci": 84,
       "irancell": 79,
