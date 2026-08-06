@@ -42,7 +42,7 @@
     "latency": 8,
     "operator": {
       "mci": 83,
-      "irancell": 77,
+      "irancell": 78,
       "fixed": 71,
       "rightel": 65
     }
@@ -67,7 +67,7 @@
     "operator": {
       "mci": 82,
       "irancell": 80,
-      "fixed": 75,
+      "fixed": 73,
       "rightel": 75
     }
   },
@@ -90,8 +90,8 @@
     "latency": 10,
     "operator": {
       "mci": 90,
-      "irancell": 80,
-      "fixed": 82,
+      "irancell": 79,
+      "fixed": 80,
       "rightel": 92
     }
   },
@@ -102,8 +102,8 @@
     "latency": 12,
     "operator": {
       "mci": 89,
-      "irancell": 83,
-      "fixed": 75,
+      "irancell": 84,
+      "fixed": 76,
       "rightel": 87
     }
   },
@@ -115,7 +115,7 @@
     "operator": {
       "mci": 96,
       "irancell": 82,
-      "fixed": 77,
+      "fixed": 76,
       "rightel": 71
     }
   },
@@ -139,7 +139,7 @@
     "operator": {
       "mci": 84,
       "irancell": 78,
-      "fixed": 68,
+      "fixed": 67,
       "rightel": 58
     }
   },
@@ -151,7 +151,7 @@
     "operator": {
       "mci": 90,
       "irancell": 84,
-      "fixed": 80,
+      "fixed": 78,
       "rightel": 78
     }
   },
@@ -175,7 +175,7 @@
     "operator": {
       "mci": 91,
       "irancell": 79,
-      "fixed": 75,
+      "fixed": 76,
       "rightel": 75
     }
   },
@@ -183,11 +183,11 @@
     "host": "abo-ali-sina.basalam.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 40,
+    "latency": 0,
     "operator": {
       "mci": 91,
       "irancell": 81,
-      "fixed": 66,
+      "fixed": 67,
       "rightel": 67
     }
   },
@@ -195,11 +195,11 @@
     "host": "sv2.just-money.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 36,
+    "latency": 22,
     "operator": {
       "mci": 84,
       "irancell": 76,
-      "fixed": 64,
+      "fixed": 67,
       "rightel": 83
     }
   },
@@ -209,7 +209,7 @@
     "connect_url": "https://t.me/proxy?server=download.lv426.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
     "latency": 109,
     "operator": {
-      "mci": 86,
+      "mci": 88,
       "irancell": 100,
       "fixed": 100,
       "rightel": 100
@@ -231,11 +231,11 @@
     "host": "mohandes.karshenasi.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=mohandes.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 1068,
+    "latency": 29,
     "operator": {
       "mci": 100,
       "irancell": 50,
-      "fixed": null,
+      "fixed": 100,
       "rightel": null
     }
   }
