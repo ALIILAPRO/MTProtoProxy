@@ -171,7 +171,7 @@
     "host": "abo-ali-sina.basalam.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=abo-ali-sina.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 56,
+    "latency": 1091,
     "operator": {
       "mci": 91,
       "irancell": 79,
@@ -207,7 +207,7 @@
     "host": "server.nl-arvancloud.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=server.nl-arvancloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "latency": 12,
+    "latency": 18,
     "operator": {
       "mci": 75,
       "irancell": 73,
