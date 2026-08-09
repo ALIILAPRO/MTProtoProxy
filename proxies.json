@@ -195,7 +195,7 @@
     "host": "sv2.just-money.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 28,
+    "latency": 23,
     "operator": {
       "mci": 84,
       "irancell": 78,
@@ -243,12 +243,24 @@
     "host": "mohandes.karshenasi.info",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=mohandes.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "latency": 26,
+    "latency": 65,
     "operator": {
       "mci": 86,
       "irancell": 50,
       "fixed": 50,
       "rightel": null
+    }
+  },
+  {
+    "host": "vase-danlod.peachsoft.co.uk",
+    "port": 443,
+    "connect_url": "https://t.me/proxy?server=vase-danlod.peachsoft.co.uk&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D",
+    "latency": 1492,
+    "operator": {
+      "mci": 100,
+      "irancell": null,
+      "fixed": null,
+      "rightel": 100
     }
   }
 ]
