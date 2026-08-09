@@ -3,7 +3,7 @@
     "host": "sop.foodpatuy.ir",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sop.foodpatuy.ir&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 41,
+    "latency": 28,
     "operator": {
       "mci": 85,
       "irancell": 86,
@@ -15,7 +15,7 @@
     "host": "valla.chemidonam.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 42,
+    "latency": 26,
     "operator": {
       "mci": 84,
       "irancell": 83,
@@ -27,7 +27,7 @@
     "host": "lux.lavazemi1.co.uk",
     "port": 2096,
     "connect_url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "latency": 14,
+    "latency": 15,
     "operator": {
       "mci": 85,
       "irancell": 86,
@@ -39,7 +39,7 @@
     "host": "sub.iran-tehran.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sub.iran-tehran.co.uk&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
-    "latency": 11,
+    "latency": 9,
     "operator": {
       "mci": 83,
       "irancell": 76,
@@ -63,7 +63,7 @@
     "host": "webhook.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 30,
+    "latency": 13,
     "operator": {
       "mci": 89,
       "irancell": 78,
@@ -75,7 +75,7 @@
     "host": "sorfezh.malfilk-voq.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=sorfezh.malfilk-voq.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "latency": 31,
+    "latency": 9,
     "operator": {
       "mci": 79,
       "irancell": 78,
@@ -87,10 +87,10 @@
     "host": "app.what-ever.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=app.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 18,
+    "latency": 29,
     "operator": {
       "mci": 88,
-      "irancell": 78,
+      "irancell": 77,
       "fixed": 79,
       "rightel": 93
     }
@@ -99,7 +99,7 @@
     "host": "ftp.jinxandjack.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 14,
+    "latency": 16,
     "operator": {
       "mci": 94,
       "irancell": 84,
@@ -126,7 +126,7 @@
     "latency": 6,
     "operator": {
       "mci": 91,
-      "irancell": 82,
+      "irancell": 81,
       "fixed": 78,
       "rightel": 77
     }
@@ -138,7 +138,7 @@
     "latency": 7,
     "operator": {
       "mci": 89,
-      "irancell": 84,
+      "irancell": 82,
       "fixed": 77,
       "rightel": 82
     }
@@ -147,10 +147,10 @@
     "host": "webhook.vingardium.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=webhook.vingardium.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 6,
+    "latency": 12,
     "operator": {
       "mci": 90,
-      "irancell": 75,
+      "irancell": 74,
       "fixed": 76,
       "rightel": 83
     }
@@ -162,7 +162,7 @@
     "latency": 39,
     "operator": {
       "mci": 85,
-      "irancell": 72,
+      "irancell": 71,
       "fixed": 72,
       "rightel": 87
     }
@@ -174,7 +174,7 @@
     "latency": 80,
     "operator": {
       "mci": 91,
-      "irancell": 79,
+      "irancell": 80,
       "fixed": 64,
       "rightel": 75
     }
@@ -186,7 +186,7 @@
     "latency": 48,
     "operator": {
       "mci": 79,
-      "irancell": 76,
+      "irancell": 75,
       "fixed": 63,
       "rightel": 58
     }
