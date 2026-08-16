@@ -219,7 +219,7 @@
     "host": "download.lv426.co.uk",
     "port": 443,
     "connect_url": "https://t.me/proxy?server=download.lv426.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-    "latency": 4,
+    "latency": 1809,
     "operator": {
       "mci": 80,
       "irancell": 88,
